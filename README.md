@@ -1,18 +1,11 @@
 # README
 ## Discovering Graph Entity Dependencies 
 Graph entity dependencies (GEDs) are novel graph constraints, unifying keys and functional dependencies, for property graphs. In this work, we study the discovery problem of GEDs – finding a minimal cover of valid GEDs in a given graph data. We formalise the problem, and propose an effective and efficient approach to overcome major bottlenecks in GED discovery.  
-![GED_Discovery](GED_Discovery.jpg)
+![image](GED_Discovery.jpg)
 
-## System Requirements
+## Requirements
 - Java 1.8
 - Python 3
-
-## Python Dependencies
-- pandas
-- glob
-- itertools
-- Levenshtein
-- multiprocessing
 
 ## Execution Steps
 We divide the GDD mining process into the following three steps: 
