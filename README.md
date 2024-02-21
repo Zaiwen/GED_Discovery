@@ -8,7 +8,7 @@ Graph entity dependencies (GEDs) are novel graph constraints, unifying keys and 
 - Python 3
 
 ## Execution Steps
-We divide the GDD mining process into the following three steps: 
+We divide the GED mining process into the following three steps: 
 1. **Frequent Subgraph Mining**:
    - input data in folder: `resource/`
    - output data in the folder: `test/process_1_producer/queryGraph`
