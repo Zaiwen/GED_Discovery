@@ -1,0 +1,3 @@
+0	restaurant
+1	address
+2	city

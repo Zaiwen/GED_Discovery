@@ -1,0 +1,3 @@
+0 name,phone,type
+1 addr
+2 city

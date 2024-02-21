@@ -1,0 +1,1289 @@
+restaurant0.name=` art / 's delicatessen '->restaurant0.phone=818/762 -1221
+restaurant0.name=` restaurant katsu '->restaurant0.phone=213/665 -1891
+restaurant0.name=` la folie '->restaurant0.phone=415/776 -5577
+restaurant0.name=` masa / 's '->restaurant0.phone=415/989 -7154
+restaurant0.name=` mifune japan center kintetsu building '->restaurant0.phone=415/922 -0337
+restaurant0.name=` l / ` orangerie '->restaurant0.phone=310/652 -9770
+restaurant0.name=` ritz-carlton restaurant and dining room '->restaurant0.phone=415/296 -7465
+restaurant0.name=` il nido '->restaurant0.phone=212/753 -8450
+restaurant0.name=` adriano / 's ristorante '->restaurant0.phone=310/475 -9807
+restaurant0.name=` barney greengrass '->restaurant0.phone=310/777 -5877
+restaurant0.name=beaurivage->restaurant0.phone=310/456 -5733
+restaurant0.name=` bistro garden '->restaurant0.phone=310/550 -3900
+restaurant0.name=` le chardonnay '->restaurant0.phone=213/655 -8880
+restaurant0.name=` broadway deli '->restaurant0.phone=310/451 -0616
+restaurant0.name=` ca / ` brea '->restaurant0.phone=213/938 -2863
+restaurant0.name=` ca / ` del sol '->restaurant0.phone=818/985 -4669
+restaurant0.name=` cafe pinot '->restaurant0.phone=213/239 -6500
+restaurant0.name=` california pizza kitchen '->restaurant0.phone=310/275 -1101
+restaurant0.name=` canter / 's '->restaurant0.phone=213/651 -2030 .
+restaurant0.name=cava->restaurant0.phone=213/658 -8898
+restaurant0.name=` chan dara '->restaurant0.phone=213/467 -1052
+restaurant0.name=` dining room '->restaurant0.phone=310/275 -5200
+restaurant0.name=drago->restaurant0.phone=310/828 -1585
+restaurant0.name=` drai / 's '->restaurant0.phone=310/358 -8585
+restaurant0.name=eclipse->restaurant0.phone=310/724 -5959
+restaurant0.name=` ed debevic / 's '->restaurant0.phone=310/659 -1952
+restaurant0.name=` gilliland / 's '->restaurant0.phone=310/392 -3901
+restaurant0.name=` gladstone / 's '->restaurant0.phone=310/454 -3474
+restaurant0.name=matsuhisa->restaurant0.phone=310/659 -9639
+restaurant0.name=` harry / 's bar & american grill '->restaurant0.phone=310/277 -2333
+restaurant0.name=` il fornaio cucina italiana '->restaurant0.phone=310/550 -8330
+restaurant0.name=` jackson / 's farm '->restaurant0.phone=310/273 -5578
+restaurant0.name=joss->restaurant0.phone=310/276 -1886
+restaurant0.name=` le dome '->restaurant0.phone=310/659 -6919
+restaurant0.name=` louise / 's trattoria '->restaurant0.phone=213/667 -0777
+restaurant0.name=` the palm '->restaurant0.phone=310/550 -8811
+restaurant0.name=` mon kee seafood restaurant '->restaurant0.phone=213/628 -6717
+restaurant0.name=` nate / ` n / ' al / 's '->restaurant0.phone=310/274 -0101
+restaurant0.name=nicola->restaurant0.phone=213/485 -0927
+restaurant0.name=` ocean avenue '->restaurant0.phone=310/394 -5669
+restaurant0.name=` pacific dining car '->restaurant0.phone=213/483 -6000
+restaurant0.name=` paty / 's '->restaurant0.phone=818/761 -9126
+restaurant0.name=` pinot hollywood '->restaurant0.phone=213/461 -8800
+restaurant0.name=posto->restaurant0.phone=818/784 -4400
+restaurant0.name=prego->restaurant0.phone=310/277 -7346
+restaurant0.name=` rj / 's the rib joint '->restaurant0.phone=310/274 -7427
+restaurant0.name=` restaurant horikawa '->restaurant0.phone=213/680 -9355
+restaurant0.name=` roscoe / 's house of chicken / ` n / ' waffles '->restaurant0.phone=213/466 -9329
+restaurant0.name=sofi->restaurant0.phone=213/651 -0346
+restaurant0.name=swingers->restaurant0.phone=213/653 -5858
+restaurant0.name=` tavola calda '->restaurant0.phone=213/658 -6340
+restaurant0.name=` the mandarin '->restaurant0.phone=310/859 -0926
+restaurant0.name=` philippe / 's the original '->restaurant0.phone=213/628 -3781
+restaurant0.name=` tommy tang / 's '->restaurant0.phone=213/937 -5733
+restaurant0.name=` tra di noi '->restaurant0.phone=310/456 -0169
+restaurant0.name=` trader vic / 's '->restaurant0.phone=310/276 -6345
+restaurant0.name=vida->restaurant0.phone=213/660 -4446
+restaurant0.name=` west beach cafe '->restaurant0.phone=310/823 -5396
+restaurant0.name='20 mott '->restaurant0.phone=212/964 -0380
+restaurant0.name=' 9 jones street '->restaurant0.phone=212/989 -1220
+restaurant0.name=adrienne->restaurant0.phone=212/903 -3918
+restaurant0.name=aja->restaurant0.phone=212/473 -8388
+restaurant0.name=` pinot bistro '->restaurant0.phone=818/990 -0500
+restaurant0.name=` alley / 's end '->restaurant0.phone=212/627 -8899
+restaurant0.name=` ambassador grill '->restaurant0.phone=212/702 -5014
+restaurant0.name=` american place '->restaurant0.phone=212/684 -2122
+restaurant0.name=` anche vivolo '->restaurant0.phone=212/308 -0112
+restaurant0.name=arizona->restaurant0.phone=212/838 -0440
+restaurant0.name=` arturo / 's '->restaurant0.phone=212/677 -3820
+restaurant0.name=` au mandarin '->restaurant0.phone=212/385 -0313
+restaurant0.name=barbetta->restaurant0.phone=212/246 -9171
+restaurant0.name=` rex il ristorante '->restaurant0.phone=213/627 -2300
+restaurant0.name=` ben benson / 's '->restaurant0.phone=212/581 -8888
+restaurant0.name=` billy / 's '->restaurant0.phone=212/753 -1870
+restaurant0.name=boonthai->restaurant0.phone=212/249 -8484
+restaurant0.name=bouterin->restaurant0.phone=212/758 -0323
+restaurant0.name=` brothers bar-b-q '->restaurant0.phone=212/727 -2775
+restaurant0.name=bruno->restaurant0.phone=212/688 -4190
+restaurant0.name=` bryant park grill roof restaurant and bp cafe '->restaurant0.phone=212/840 -6500
+restaurant0.name=c3->restaurant0.phone=212/254 -1200
+restaurant0.name=` hotel bel-air '->restaurant0.phone=310/472 -1211
+restaurant0.name=spago->restaurant0.phone=310/652 -4025
+restaurant0.name=ct->restaurant0.phone=212/995 -8500
+restaurant0.name=` cafe botanica '->restaurant0.phone=212/484 -5120
+restaurant0.name=` cafe luxembourg '->restaurant0.phone=212/873 -7411
+restaurant0.name=` cafe pierre '->restaurant0.phone=212/940 -8185
+restaurant0.name=` cafe centro '->restaurant0.phone=212/818 -1222
+restaurant0.name=` caffe lure '->restaurant0.phone=212/473 -2642
+restaurant0.name=` caffe bondi ristorante '->restaurant0.phone=212/691 -8136
+restaurant0.name=` capsouto freres '->restaurant0.phone=212/966 -4900
+restaurant0.name=` cendrillon asian grill & marimba bar '->restaurant0.phone=212/343 -9012
+restaurant0.name=` chez jacqueline '->restaurant0.phone=212/505 -0727
+restaurant0.name=` yujean kang / 's gourmet chinese cuisine '->restaurant0.phone=818/585 -0855
+restaurant0.name=chiam->restaurant0.phone=212/371 -2323
+restaurant0.name=` china grill '->restaurant0.phone=212/333 -7788
+restaurant0.name=cite->restaurant0.phone=212/956 -7100
+restaurant0.name=` coco pazzo '->restaurant0.phone=212/794 -0205
+restaurant0.name=` da nico '->restaurant0.phone=212/343 -1212
+restaurant0.name=diva->restaurant0.phone=212/941 -9024
+restaurant0.name='21 club '->restaurant0.phone=212/582 -7200
+restaurant0.name=` dix et sept '->restaurant0.phone=212/645 -8023
+restaurant0.name=` duane park cafe '->restaurant0.phone=212/732 -5555
+restaurant0.name='em ily / 's '->restaurant0.phone=212/996 -1212
+restaurant0.name='em pire korea '->restaurant0.phone=212/725 -1333
+restaurant0.name=` ernie / 's '->restaurant0.phone=212/496 -1588
+restaurant0.name=` evergreen cafe '->restaurant0.phone=212/744 -3266
+restaurant0.name=` f. ille ponte ristorante '->restaurant0.phone=212/226 -4621
+restaurant0.name=felix->restaurant0.phone=212/431 -0021
+restaurant0.name=ferrier->restaurant0.phone=212/772 -9000
+restaurant0.name=` fifty seven fifty seven '->restaurant0.phone=212/758 -5757
+restaurant0.name=` film center cafe '->restaurant0.phone=' 212 / 262-2525 '
+restaurant0.name=` fiorello / 's roman cafe '->restaurant0.phone=212/595 -5330
+restaurant0.name=firehouse->restaurant0.phone=212/595 -3139
+restaurant0.name=first->restaurant0.phone=212/674 -3823
+restaurant0.name=flowers->restaurant0.phone=212/691 -8888
+restaurant0.name=follonico->restaurant0.phone=212/691 -6359
+restaurant0.name=aureole->restaurant0.phone=' 212 / 319-1660 '
+restaurant0.name=` fraunces tavern '->restaurant0.phone=212/269 -0144
+restaurant0.name=` french roast '->restaurant0.phone=212/533 -2233
+restaurant0.name=` frico bar '->restaurant0.phone=212/564 -7272
+restaurant0.name=` fujiyama mama '->restaurant0.phone=212/769 -1144
+restaurant0.name=` gallagher / 's '->restaurant0.phone=212/245 -5336
+restaurant0.name=girafe->restaurant0.phone=212/752 -3054
+restaurant0.name=global->restaurant0.phone=212/477 -8427
+restaurant0.name=` golden unicorn '->restaurant0.phone=' 212 / 941-0911 '
+restaurant0.name=` grand ticino '->restaurant0.phone=212/777 -5922
+restaurant0.name=halcyon->restaurant0.phone=212/468 -8888
+restaurant0.name=` hi-life restaurant and lounge '->restaurant0.phone=212/249 -3600
+restaurant0.name=home->restaurant0.phone=212/243 -9579
+restaurant0.name=` hudson river club '->restaurant0.phone=212/786 -1500
+restaurant0.name=' i trulli '->restaurant0.phone=212/481 -7372
+restaurant0.name=` il cortile '->restaurant0.phone=212/226 -6060
+restaurant0.name=indochine->restaurant0.phone=212/505 -5111
+restaurant0.name=` jean lafitte '->restaurant0.phone=212/751 -2323
+restaurant0.name=` jewel of india '->restaurant0.phone=212/869 -5544
+restaurant0.name=` jimmy sung / 's '->restaurant0.phone=212/682 -5678
+restaurant0.name=` joe allen '->restaurant0.phone=212/581 -6464
+restaurant0.name=` judson grill '->restaurant0.phone=212/582 -5252
+restaurant0.name=` l / ` absinthe '->restaurant0.phone=212/794 -4950
+restaurant0.name=` l / ` auberge du midi '->restaurant0.phone=212/242 -4705
+restaurant0.name=` l / ` udo '->restaurant0.phone=212/388 -0978
+restaurant0.name=` la reserve '->restaurant0.phone=212/247 -2993
+restaurant0.name=` lanza restaurant '->restaurant0.phone=212/674 -7014
+restaurant0.name=` lattanzi ristorante '->restaurant0.phone=212/315 -0980
+restaurant0.name=` le chantilly '->restaurant0.phone=212/751 -2931
+restaurant0.name=` le jardin '->restaurant0.phone=212/343 -9599
+restaurant0.name=` le madri '->restaurant0.phone=212/727 -8022
+restaurant0.name=` le marais '->restaurant0.phone=212/869 -0900
+restaurant0.name=` le perigord '->restaurant0.phone=212/755 -6244
+restaurant0.name=` le select '->restaurant0.phone=212/875 -1993
+restaurant0.name=` les halles '->restaurant0.phone=212/679 -4111
+restaurant0.name=` lincoln tavern '->restaurant0.phone=212/721 -8271
+restaurant0.name=lola->restaurant0.phone=212/675 -6700
+restaurant0.name=` main street '->restaurant0.phone=212/873 -5025
+restaurant0.name=` cafe bizou '->restaurant0.phone=818/788 -3536
+restaurant0.name=chanterelle->restaurant0.phone=212/966 -6960
+restaurant0.name=` mangia e bevi '->restaurant0.phone=212/956 -3976
+restaurant0.name=` manhattan cafe '->restaurant0.phone=212/888 -6556
+restaurant0.name=` manila garden '->restaurant0.phone=212/777 -6314
+restaurant0.name=marichu->restaurant0.phone=212/370 -1866
+restaurant0.name=match->restaurant0.phone=212/906 -9173
+restaurant0.name=` matthew / 's '->restaurant0.phone=212/838 -4343
+restaurant0.name=` mavalli palace '->restaurant0.phone=212/679 -5535
+restaurant0.name=` monkey bar '->restaurant0.phone=212/838 -2600
+restaurant0.name=daniel->restaurant0.phone=212/288 -0033
+restaurant0.name=montien->restaurant0.phone=212/421 -4433
+restaurant0.name=` motown cafe '->restaurant0.phone=212/581 -8030
+restaurant0.name=` new york kom tang soot bul house '->restaurant0.phone=' 212 / 947-8482 '
+restaurant0.name=` new york noodletown '->restaurant0.phone=212/349 -0923
+restaurant0.name=odeon->restaurant0.phone=212/233 -0507
+restaurant0.name=orso->restaurant0.phone=212/489 -7212
+restaurant0.name=` osteria al droge '->restaurant0.phone=212/944 -3643
+restaurant0.name=otabe->restaurant0.phone=212/223 -7575
+restaurant0.name=dawat->restaurant0.phone=212/355 -7555
+restaurant0.name=pacifica->restaurant0.phone=212/941 -4168
+restaurant0.name=palio->restaurant0.phone=212/245 -4850
+restaurant0.name=` parioli romanissimo '->restaurant0.phone=212/288 -2391
+restaurant0.name=` peacock alley '->restaurant0.phone=212/872 -4895
+restaurant0.name=` pen & pencil '->restaurant0.phone=212/682 -8660
+restaurant0.name=` penang soho '->restaurant0.phone=212/274 -8883
+restaurant0.name=` planet hollywood '->restaurant0.phone=212/333 -7827
+restaurant0.name=` popover cafe '->restaurant0.phone=212/595 -8555
+restaurant0.name=` post house '->restaurant0.phone=212/935 -2888
+restaurant0.name=rain->restaurant0.phone=212/501 -0776
+restaurant0.name=republic->restaurant0.phone=212/627 -7172
+restaurant0.name=` ruth / 's chris '->restaurant0.phone=212/245 -9600
+restaurant0.name=s.p.q.r->restaurant0.phone=212/925 -3120
+restaurant0.name=` four seasons grill room '->restaurant0.phone=212/754 -9494
+restaurant0.name=` sal anthony / 's '->restaurant0.phone=212/982 -9030
+restaurant0.name=` san pietro '->restaurant0.phone=212/753 -9015
+restaurant0.name=` sarabeth / 's kitchen '->restaurant0.phone=212/496 -6280
+restaurant0.name=serendipity->restaurant0.phone=212/838 -3531
+restaurant0.name=` seventh regiment mess and bar '->restaurant0.phone=212/744 -4107
+restaurant0.name=sfuzzi->restaurant0.phone=212/873 -3700
+restaurant0.name=shaan->restaurant0.phone=' 212 / 977-8400 '
+restaurant0.name=` gotham bar & grill '->restaurant0.phone=212/620 -4020
+restaurant0.name=` sofia fabulous pizza '->restaurant0.phone=212/734 -2676
+restaurant0.name=` spring street natural restaurant & bar '->restaurant0.phone=212/966 -0290
+restaurant0.name=` sweet / ` n / ` tart cafe '->restaurant0.phone=212/334 -8088
+restaurant0.name=` tang pavillion '->restaurant0.phone=212/956 -6888
+restaurant0.name=tapika->restaurant0.phone=' 212 / 397-3737 '
+restaurant0.name=` gramercy tavern '->restaurant0.phone=212/477 -0777
+restaurant0.name=` the savannah club '->restaurant0.phone=212/496 -1066
+restaurant0.name=` trattoria dell / ` arte '->restaurant0.phone=212/245 -9800
+restaurant0.name=triangolo->restaurant0.phone=212/472 -4488
+restaurant0.name=` tribeca grill '->restaurant0.phone=212/941 -3900
+restaurant0.name=` tse yang '->restaurant0.phone=212/688 -5447
+restaurant0.name=` two two two '->restaurant0.phone=212/799 -0400
+restaurant0.name=verbena->restaurant0.phone=212/260 -5454
+restaurant0.name=` vince & eddie / 's '->restaurant0.phone=212/721 -0068
+restaurant0.name=vong->restaurant0.phone=212/486 -9592
+restaurant0.name=` water club '->restaurant0.phone=212/683 -3333
+restaurant0.name=west->restaurant0.phone=212/246 -6363
+restaurant0.name=zoe->restaurant0.phone=212/966 -6722
+restaurant0.name=` jo jo '->restaurant0.phone=212/223 -5656
+restaurant0.name=` annie / 's thai castle '->restaurant0.phone=404/264 -9546
+restaurant0.name=anthonys->restaurant0.phone=404/262 -7379
+restaurant0.name=` atlanta fish market '->restaurant0.phone=404/262 -3165
+restaurant0.name=` cafe renaissance '->restaurant0.phone=770/441 -- 0291
+restaurant0.name=` camille / 's '->restaurant0.phone=404/872 -7203
+restaurant0.name=` la caravelle '->restaurant0.phone=212/586 -4252
+restaurant0.name=` hsu / 's gourmet '->restaurant0.phone=404/659 -2788
+restaurant0.name=` la cote basque '->restaurant0.phone=212/688 -6525
+restaurant0.name=kamogawa->restaurant0.phone=404/841 -0314
+restaurant0.name=` la grotta at ravinia dunwoody rd. '->restaurant0.phone=770/395 -9925
+restaurant0.name=` little szechuan '->restaurant0.phone=770/451 -0192
+restaurant0.name=` mi spia dunwoody rd. '->restaurant0.phone=770/393 -1333
+restaurant0.name=` le bernardin '->restaurant0.phone=212/489 -1515
+restaurant0.name=` pleasant peasant '->restaurant0.phone=404/874 -3223
+restaurant0.name=pricci->restaurant0.phone=404/237 -2941
+restaurant0.name=` r.j. / 's uptown kitchen & wine bar '->restaurant0.phone=404/875 -7775
+restaurant0.name=` sa tsu ki '->restaurant0.phone=404/325 -5285
+restaurant0.name=` sato sushi and thai '->restaurant0.phone=770/449 -0033
+restaurant0.name=` south of france '->restaurant0.phone=404/325 -6963
+restaurant0.name=` les celebrites '->restaurant0.phone=212/484 -5113
+restaurant0.name=` sundown cafe '->restaurant0.phone=404/321 -1118
+restaurant0.name=` antonio / 's '->restaurant0.phone=702/252 -7737
+restaurant0.name=` bamboo garden '->restaurant0.phone=702/871 -3262
+restaurant0.name=` battista / 's hole in the wall '->restaurant0.phone=702/732 -1424
+restaurant0.name=bistro->restaurant0.phone=702/791 -7111
+restaurant0.name=bistro->restaurant0.type=continental
+restaurant0.name=lespinasse->restaurant0.phone=212/339 -6719
+restaurant0.name=broiler->restaurant0.phone=702/432 -7777
+restaurant0.name=` cafe michelle '->restaurant0.phone=702/735 -8686
+restaurant0.name=` cafe roma '->restaurant0.type=` coffee shops/diners '
+restaurant0.name=` capozzoli / 's '->restaurant0.phone=702/731 -5311
+restaurant0.name=` carnival world '->restaurant0.phone=702/252 -7777
+restaurant0.name=` center stage plaza hotel '->restaurant0.phone=702/386 -2512
+restaurant0.name=` circus circus '->restaurant0.phone=702/734 -0410
+restaurant0.name=` circus circus '->restaurant0.type=buffets
+restaurant0.name='em press court '->restaurant0.phone=702/731 -7888
+restaurant0.name=lutece->restaurant0.phone=212/752 -2225
+restaurant0.name=` golden nugget hotel '->restaurant0.phone=702/385 -7111
+restaurant0.name=` golden nugget hotel '->restaurant0.type=buffets
+restaurant0.name=` lillie langtry / 's '->restaurant0.phone=702/385 -7111
+restaurant0.name=` lillie langtry / 's '->restaurant0.type=asian
+restaurant0.name=` mandarin court '->restaurant0.phone=702/737 -1234
+restaurant0.name=mikado->restaurant0.phone=702/791 -7111
+restaurant0.name=mikado->restaurant0.type=asian
+restaurant0.name=` the bacchanal '->restaurant0.phone=702/731 -7525
+restaurant0.name=venetian->restaurant0.phone=702/876 -4190
+restaurant0.name=2223->restaurant0.phone=415/431 -0692
+restaurant0.name=acquarello->restaurant0.phone=415/567 -5432
+restaurant0.name=betelnut->restaurant0.phone=415/929 -8855
+restaurant0.name=` bistro roti '->restaurant0.phone=415/495 -6500
+restaurant0.name=bix->restaurant0.phone=415/433 -6300
+restaurant0.name=bizou->restaurant0.phone=415/543 -2222
+restaurant0.name=march->restaurant0.phone=212/754 -6272
+restaurant0.name=` buca giovanni '->restaurant0.phone=415/776 -7766
+restaurant0.name=` cafe adriano '->restaurant0.phone=415/474 -4180
+restaurant0.name=` california culinary academy '->restaurant0.phone=415/771 -3500
+restaurant0.name=` capp / 's corner '->restaurant0.phone=415/989 -2589
+restaurant0.name=carta->restaurant0.phone=415/863 -3516
+restaurant0.name=` cypress club '->restaurant0.phone=415/296 -8555
+restaurant0.name=` des alpes '->restaurant0.phone=415/788 -9900
+restaurant0.name=` mesa grill '->restaurant0.phone=212/807 -7400
+restaurant0.name=` fog city diner '->restaurant0.phone=415/982 -2000
+restaurant0.name=` gaylord / 's '->restaurant0.phone=415/771 -8822
+restaurant0.name=` grand cafe hotel monaco '->restaurant0.phone=415/292 -0101
+restaurant0.name=` harbor village '->restaurant0.phone=415/781 -8833
+restaurant0.name=` harry denton / 's '->restaurant0.phone=415/882 -1333
+restaurant0.name=` hong kong flower lounge '->restaurant0.phone=415/668 -8998
+restaurant0.name=` hong kong villa '->restaurant0.phone=415/752 -8833
+restaurant0.name=` hyde street bistro '->restaurant0.phone=415/441 -7778
+restaurant0.name=` il fornaio levi / 's plaza '->restaurant0.phone=415/986 -0100
+restaurant0.name=` kabuto sushi '->restaurant0.phone=415/752 -5652
+restaurant0.name=` kuleto / 's '->restaurant0.phone=415/397 -7720
+restaurant0.name=` kyo-ya . sheraton palace hotel '->restaurant0.phone=415/546 -5000
+restaurant0.name=montrachet->restaurant0.phone=' 212 / 219-2777 '
+restaurant0.name=` l / ` osteria del forno '->restaurant0.phone=415/982 -1124
+restaurant0.name=` le central '->restaurant0.phone=415/391 -2233
+restaurant0.name=` le soleil '->restaurant0.phone=415/668 -4848
+restaurant0.name=` macarthur park '->restaurant0.phone=415/398 -5700
+restaurant0.name=manora->restaurant0.phone=415/861 -6224
+restaurant0.name=` north india '->restaurant0.phone=415/931 -1556
+restaurant0.name=` chinois on main '->restaurant0.phone=310/392 -9025
+restaurant0.name=` one market '->restaurant0.phone=415/777 -5577
+restaurant0.name=oritalia->restaurant0.phone=415/346 -1333
+restaurant0.name=` pacific pan pacific hotel '->restaurant0.phone=415/929 -2087
+restaurant0.name=` palio d / ` asti '->restaurant0.phone=415/395 -9800
+restaurant0.name=` pane e vino '->restaurant0.phone=415/346 -2111
+restaurant0.name=pastis->restaurant0.phone=415/391 -2555
+restaurant0.name=` perry / 's '->restaurant0.phone=415/922 -9022
+restaurant0.name=rubicon->restaurant0.phone=415/434 -4100
+restaurant0.name=rumpus->restaurant0.phone=415/421 -2300
+restaurant0.name=` park avenue cafe '->restaurant0.phone=212/644 -1900
+restaurant0.name=sanppo->restaurant0.phone=415/346 -3486
+restaurant0.name=` scala / 's bistro '->restaurant0.phone=415/395 -8555
+restaurant0.name=` south park cafe '->restaurant0.phone=415/495 -7275
+restaurant0.name=stars->restaurant0.phone=415/861 -7827
+restaurant0.name=` stars cafe '->restaurant0.phone=415/861 -4344
+restaurant0.name=` straits cafe '->restaurant0.phone=415/668 -1783
+restaurant0.name=petrossian->restaurant0.phone=212/245 -2214
+restaurant0.name=` the heights '->restaurant0.phone=415/474 -8890
+restaurant0.name=thepin->restaurant0.phone=415/863 -9335
+restaurant0.name=` ton kiang '->restaurant0.phone=415/752 -4440
+restaurant0.name=` vivande porta via '->restaurant0.phone=415/346 -4430
+restaurant0.name=` vivande ristorante '->restaurant0.phone=415/673 -9245
+restaurant0.name=` world wrapps '->restaurant0.phone=415/563 -9727
+restaurant0.name=` wu kong '->restaurant0.phone=415/957 -9300
+restaurant0.name=` yank sing '->restaurant0.phone=415/541 -4949
+restaurant0.name=` yoyo tsumami bistro '->restaurant0.phone=415/922 -7788
+restaurant0.name=` apple pan the '->restaurant0.phone=310-475-3585
+restaurant0.name=` bistro 45 '->restaurant0.phone=818-795-2478
+restaurant0.name=` bristol farms market cafe '->restaurant0.phone=310-643-5229
+restaurant0.name=` bruno / 's '->restaurant0.phone=310-397-5703
+restaurant0.name=` cafe / '50s '->restaurant0.phone=310-399-1955
+restaurant0.name=` don antonio / 's '->restaurant0.phone=310-209-1422
+restaurant0.name=jiraffe->restaurant0.phone=310-917-6671
+restaurant0.name=` river cafe '->restaurant0.phone=718/522 -5200
+restaurant0.name=` johnny rockets ( la ) '->restaurant0.phone=213-651-3361
+restaurant0.name=` kokomo cafe '->restaurant0.phone=213-933-0773
+restaurant0.name=` main course the '->restaurant0.phone=310-475-7564
+restaurant0.name=` martha / 's '->restaurant0.phone=310-376-7786
+restaurant0.name=` maxwell / 's cafe '->restaurant0.phone=310-306-7829
+restaurant0.name=` michael / 's ( los angeles ) '->restaurant0.phone=310-451-0843
+restaurant0.name=` ocean park cafe '->restaurant0.phone=310-452-5728
+restaurant0.name=` parkway grill '->restaurant0.phone=818-795-1001
+restaurant0.name=seryna->restaurant0.phone=212/980 -9393
+restaurant0.name=` shun lee west '->restaurant0.phone=212/371 -8844
+restaurant0.name=` cucina della fontana '->restaurant0.phone=212-242-0636
+restaurant0.name=` sign of the dove '->restaurant0.phone=212/861 -8080
+restaurant0.name=` good enough to eat '->restaurant0.phone=212-496-0163
+restaurant0.name=` il mulino '->restaurant0.phone=212-673-3783
+restaurant0.name=` smith & wollensky '->restaurant0.phone=212/753 -1530
+restaurant0.name=` marnie / 's noodle shop '->restaurant0.phone=212-741-3214
+restaurant0.name=` tavern on the green '->restaurant0.phone=212/873 -3200
+restaurant0.name=` sarabeth / 's '->restaurant0.phone=212-410-7335
+restaurant0.name=` union square cafe '->restaurant0.phone=212/243 -4020
+restaurant0.name=` buzio / 's in the rio '->restaurant0.phone=702-252-7697
+restaurant0.name='em eril / 's new orleans fish house '->restaurant0.phone=702-891-7374
+restaurant0.name=` fiore rotisserie & grille '->restaurant0.phone=702-252-7702
+restaurant0.name=` virgil / 's '->restaurant0.phone=' 212 / 921-9494 '
+restaurant0.name=` madame ching / 's '->restaurant0.phone=702-894-7111
+restaurant0.name=` nicky blair / 's '->restaurant0.phone=702-792-9900
+restaurant0.name=` piero / 's restaurant '->restaurant0.phone=702-369-2305
+restaurant0.name=` spago ( las vegas ) '->restaurant0.phone=702-369-6300
+restaurant0.name=` chin / 's '->restaurant0.phone=702/733 -8899
+restaurant0.name=` stefano / 's '->restaurant0.phone=702-385-7111
+restaurant0.name=` tre visi '->restaurant0.phone=702-891-7331
+restaurant0.name=eats->restaurant0.phone=404-888-9149
+restaurant0.name=` johnny rockets ( at ) '->restaurant0.phone=770-955-6068
+restaurant0.name=fenix->restaurant0.phone=213/848 -6677
+restaurant0.name=` palace court '->restaurant0.phone=702/731 -7547
+restaurant0.name=` palace court '->restaurant0.type=continental
+restaurant0.name=` original pancake house ( at ) '->restaurant0.phone=404-237-4116
+restaurant0.name=` steak house '->restaurant0.type=` steak houses '
+restaurant0.name=` cafe flore '->restaurant0.phone=415-621-8579
+restaurant0.name=` doidge / 's '->restaurant0.phone=415-921-2149
+restaurant0.name=` kelly / 's on trinity '->restaurant0.phone=415-362-4454
+restaurant0.name=` mario / 's bohemian cigar store cafe '->restaurant0.phone=415-776-8226
+restaurant0.name=` sally / 's cafe & bakery '->restaurant0.phone=415-626-6006
+restaurant0.name=` ti couz '->restaurant0.phone=415-252-7373
+restaurant0.name=` trio cafe '->restaurant0.phone=415-563-2248
+restaurant0.name=` bel-air hotel '->restaurant0.phone=310-472-1211
+restaurant0.name=` bone / 's '->restaurant0.phone=404/237 -2663
+restaurant0.name=` brasserie le coze '->restaurant0.phone=404/266 -1440
+restaurant0.name=` spago ( los angeles ) '->restaurant0.phone=310-652-4025
+restaurant0.name=` buckhead diner '->restaurant0.phone=404/262 -3336
+restaurant0.name=ciboulette->restaurant0.phone=404/874 -7600
+restaurant0.name=` lespinasse ( new york city ) '->restaurant0.phone=212-339-6719
+restaurant0.name=delectables->restaurant0.phone=404/681 -2909
+restaurant0.name=` georgia grille '->restaurant0.phone=404/352 -3517
+restaurant0.name=` coyote cafe ( las vegas ) '->restaurant0.phone=702-891-7349
+restaurant0.name=bacchanalia->restaurant0.phone=404-365-0410
+restaurant0.name=` heera of india '->restaurant0.phone=404/876 -4408
+restaurant0.name=` ritz-carlton cafe ( buckhead ) '->restaurant0.phone=404-237-2700
+restaurant0.name=` ritz-carlton dining room ( buckhead ) '->restaurant0.phone=404-237-2700
+restaurant0.name=` ritz-carlton restaurant '->restaurant0.type=` french ( classic ) '
+restaurant0.name=` ritz-carlton cafe ( atlanta ) '->restaurant0.phone=404-659-0400
+restaurant0.name=` ritz-carlton cafe ( atlanta ) '->restaurant0.type=` american ( new ) '
+restaurant0.name=` grill on the alley '->restaurant0.phone=310/276 -0615
+restaurant0.name=` restaurant ritz-carlton atlanta '->restaurant0.phone=404/659 -0400
+restaurant0.name=toulouse->restaurant0.phone=404/351 -9533
+restaurant0.name=` alain rondelli '->restaurant0.phone=415/387 -0408
+restaurant0.name=boulevard->restaurant0.phone=415/543 -6084
+restaurant0.name=` cafe claude '->restaurant0.phone=415/392 -3505
+restaurant0.name=` campton place '->restaurant0.phone=415/955 -5555
+restaurant0.name=` rose pistola '->address0.addr=' 532 columbus ave. '
+restaurant0.name=remi->restaurant0.type=italian
+restaurant0.name=` locanda veneta '->restaurant0.type=italian
+restaurant0.name=` hard rock cafe '->restaurant0.type=american
+restaurant0.name=` le colonial '->restaurant0.type=asian
+restaurant0.name=` morton / 's '->restaurant0.type=american
+restaurant0.name=patina->address0.addr=' 5955 melrose ave. '
+restaurant0.name=valentino->address0.addr=' 3115 pico blvd. '
+restaurant0.name=` carmine / 's '->restaurant0.type=italian
+restaurant0.name=felidia->address0.addr=' 243 e. 58th st. '
+restaurant0.name=` bertolini / 's '->restaurant0.type=italian
+restaurant0.name=` san domenico '->restaurant0.type=italian
+restaurant0.name=citrus->address0.addr=' 6703 melrose ave. '
+restaurant0.name=abruzzi->restaurant0.type=italian
+restaurant0.name=granita->address0.addr=' 23725 w. malibu rd. '
+restaurant0.name=` la grotta '->restaurant0.type=italian
+restaurant0.name=` veni vidi vici '->address0.addr='41 14th st. '
+restaurant0.name=` fleur de lys '->address0.addr=' 777 sutter st. '
+restaurant0.name=` hawthorne lane '->address0.addr='22 hawthorne st. '
+restaurant0.name=` khan toke thai house '->address0.addr=' 5937 geary blvd. '
+restaurant0.name=postrio->address0.addr=' 545 post st. '
+restaurant0.name=campanile->address0.addr=' 624 s. la brea ave. '
+restaurant0.phone=310/246 -1501->address0.addr=' 435 s. la cienega blv . '
+restaurant0.phone=415/673 -7779->restaurant0.name=` fleur de lys '
+restaurant0.phone=415/673 -7779->restaurant0.type=french
+restaurant0.phone=415/543 -0573->address0.addr=' 570 4th st. '
+restaurant0.phone=415/777 -9779->restaurant0.name=` hawthorne lane '
+restaurant0.phone=415/777 -9779->restaurant0.type=american
+restaurant0.phone=415/668 -6654->restaurant0.name=` khan toke thai house '
+restaurant0.phone=415/668 -6654->restaurant0.type=asian
+restaurant0.phone=415/776 -7825->restaurant0.name=postrio
+restaurant0.phone=415/776 -7825->restaurant0.type=american
+restaurant0.phone=415/399 -0499->restaurant0.name=` rose pistola '
+restaurant0.phone=212/581 -4242->address0.addr=' 145 w. 53rd st. '
+restaurant0.phone=310/274 -1893->restaurant0.name=` locanda veneta '
+restaurant0.phone=310/274 -1893->address0.addr=' 3rd st. '
+restaurant0.phone=310/276 -7605->address0.addr=' 8600 beverly blvd. '
+restaurant0.phone=310/289 -0660->address0.addr=' 8783 beverly blvd. '
+restaurant0.phone=310/276 -5205->address0.addr=' 8764 melrose ave. '
+restaurant0.phone=213/467 -1108->restaurant0.name=patina
+restaurant0.phone=310/393 -6545->restaurant0.name=remi
+restaurant0.phone=310/393 -6545->address0.addr=' 3rd st. promenade '
+restaurant0.phone=310/829 -4313->restaurant0.name=valentino
+restaurant0.phone=212/489 -6565->address0.addr=' 221 w. 57th st. '
+restaurant0.phone=212/362 -2200->address0.addr=' 2450 broadway between 90th and 91st sts . '
+restaurant0.phone=' 212 / 752-0808 '->address0.addr=' 149 e. 57th st. '
+restaurant0.phone=212/972 -3315->address0.addr=' 551 5th ave. at 45th st. '
+restaurant0.phone=212/758 -1479->restaurant0.name=felidia
+restaurant0.phone=404/233 -2333->address0.addr=' 3500 peachtree rd. . phipps plaza '
+restaurant0.phone=213/938 -1447->restaurant0.name=campanile
+restaurant0.phone=213/938 -1447->restaurant0.type=american
+restaurant0.phone=702/735 -4663->restaurant0.name=` bertolini / 's '
+restaurant0.phone=702/735 -4663->address0.addr=' 3570 las vegas blvd. s '
+restaurant0.phone=212/265 -5959->address0.addr=' 240 central park s '
+restaurant0.phone=213/857 -0034->restaurant0.name=citrus
+restaurant0.phone=404/261 -8186->address0.addr=' 2355 peachtree rd. . peachtree battle shopping center '
+restaurant0.phone=310-246-1501->restaurant0.type=steakhouses
+restaurant0.phone=213-938-1447->restaurant0.name=campanile
+restaurant0.phone=213-938-1447->restaurant0.type=californian
+restaurant0.phone=213-857-0034->restaurant0.name=citrus
+restaurant0.phone=310-456-0488->restaurant0.name=granita
+restaurant0.phone=310-274-1893->address0.addr=' 8638 w. third st. '
+restaurant0.phone=213-467-1108->restaurant0.name=patina
+restaurant0.phone=310-829-4313->restaurant0.name=valentino
+restaurant0.phone=212-362-2200->address0.addr=' 2450 broadway '
+restaurant0.phone=212-758-1479->restaurant0.name=felidia
+restaurant0.phone=310/456 -0488->restaurant0.name=granita
+restaurant0.phone=212-265-5959->address0.addr=' 240 central park s. '
+restaurant0.phone=404-261-8186->address0.addr=' 2355 peachtree rd. ne '
+restaurant0.phone=404-231-1368->address0.addr=' 2637 peachtree rd. ne '
+restaurant0.phone=404-875-8424->restaurant0.name=` veni vidi vici '
+restaurant0.phone=404/231 -1368->address0.addr=' 2637 peachtree rd. . peachtree house condominium '
+restaurant0.phone=415-775-7036->address0.addr=' 804 north point st. '
+restaurant0.phone=415-673-7779->restaurant0.type=` french ( new ) '
+restaurant0.phone=415-543-0573->restaurant0.type=` french bistro '
+restaurant0.phone=415-777-9779->restaurant0.name=` hawthorne lane '
+restaurant0.phone=415-777-9779->restaurant0.type=californian
+restaurant0.phone=415-668-6654->restaurant0.type=thai
+restaurant0.phone=415-776-7825->restaurant0.name=postrio
+restaurant0.phone=415-776-7825->restaurant0.type=californian
+restaurant0.phone=415-399-0499->restaurant0.name=` rose pistola '
+restaurant0.phone=404/875 -8424->restaurant0.name=` veni vidi vici '
+restaurant0.phone=415/775 -7036->address0.addr=' 804 northpoint '
+restaurant0.phone=818/762 -1221->address0.addr=' 12224 ventura blvd. '
+restaurant0.phone=213/665 -1891->address0.addr=' 1972 n. hillhurst ave. '
+restaurant0.phone=415/776 -5577->address0.addr=' 2316 polk st. '
+restaurant0.phone=415/989 -7154->address0.addr=' 648 bush st. '
+restaurant0.phone=415/922 -0337->address0.addr=' 1737 post st. '
+restaurant0.phone=310/652 -9770->address0.addr=' 903 n. la cienega blvd. '
+restaurant0.phone=415/296 -7465->address0.addr=' 600 stockton st. '
+restaurant0.phone=212/753 -8450->address0.addr=' 251 e. 53rd st. '
+restaurant0.phone=310/475 -9807->address0.addr=' 2930 beverly glen circle '
+restaurant0.phone=310/777 -5877->address0.addr=' 9570 wilshire blvd. '
+restaurant0.phone=310/456 -5733->address0.addr=' 26025 pacific coast hwy . '
+restaurant0.phone=310/550 -3900->address0.addr=' 176 n. canon dr. '
+restaurant0.phone=213/655 -8880->address0.addr=' 8284 melrose ave. '
+restaurant0.phone=310/451 -0616->restaurant0.type=american
+restaurant0.phone=310/451 -0616->address0.addr=' 3rd st. promenade '
+restaurant0.phone=213/938 -2863->address0.addr=' 346 s. la brea ave. '
+restaurant0.phone=818/985 -4669->address0.addr=' 4100 cahuenga blvd. '
+restaurant0.phone=213/239 -6500->address0.addr=' 700 w. fifth st. '
+restaurant0.phone=310/275 -1101->address0.addr=' 207 s. beverly dr. '
+restaurant0.phone=213/651 -2030 .->address0.addr=' 419 n. fairfax ave. '
+restaurant0.phone=213/658 -8898->restaurant0.type=mediterranean
+restaurant0.phone=213/467 -1052->address0.addr=' 310 n. larchmont blvd. '
+restaurant0.phone=310/275 -5200->address0.addr=' 9500 wilshire blvd. '
+restaurant0.phone=310/828 -1585->address0.addr=' 2628 wilshire blvd. '
+restaurant0.phone=310/358 -8585->address0.addr=' 730 n. la cienega blvd. '
+restaurant0.phone=310/724 -5959->address0.addr=' 8800 melrose ave. '
+restaurant0.phone=310/659 -1952->address0.addr=' 134 n. la cienega '
+restaurant0.phone=310/392 -3901->address0.addr=' 2424 main st. '
+restaurant0.phone=310/454 -3474->address0.addr=' 4 fish 17300 pacific coast hwy . at sunset blvd. '
+restaurant0.phone=310/659 -9639->address0.addr=' 129 n. la cienega blvd. '
+restaurant0.phone=310/277 -2333->address0.addr=' 2020 ave. of the stars '
+restaurant0.phone=310/550 -8330->address0.addr=' 301 n. beverly dr. '
+restaurant0.phone=310/273 -5578->address0.addr=' 439 n. beverly drive '
+restaurant0.phone=310/276 -1886->address0.addr=' 9255 sunset blvd. '
+restaurant0.phone=310/659 -6919->address0.addr=' 8720 sunset blvd. '
+restaurant0.phone=213/667 -0777->address0.addr=' 4500 los feliz blvd. '
+restaurant0.phone=310/550 -8811->address0.addr=' 9001 santa monica blvd. '
+restaurant0.phone=213/628 -6717->address0.addr=' 679 n. spring st. '
+restaurant0.phone=310/274 -0101->address0.addr=' 414 n. beverly dr. '
+restaurant0.phone=213/485 -0927->address0.addr=' 601 s. figueroa st. '
+restaurant0.phone=310/394 -5669->address0.addr=' 1401 ocean ave. '
+restaurant0.phone=213/483 -6000->address0.addr=' 6th st. '
+restaurant0.phone=818/761 -9126->address0.addr=' 10001 riverside dr. '
+restaurant0.phone=213/461 -8800->address0.addr=' 1448 n. gower st. '
+restaurant0.phone=818/784 -4400->address0.addr=' 14928 ventura blvd. '
+restaurant0.phone=310/277 -7346->address0.addr=' 362 n. camden dr. '
+restaurant0.phone=310/274 -7427->address0.addr=' 252 n. beverly dr. '
+restaurant0.phone=213/680 -9355->address0.addr=' 111 s. san pedro st. '
+restaurant0.phone=213/466 -9329->address0.addr=' 1514 n. gower st. '
+restaurant0.phone=213/651 -0346->restaurant0.type=mediterranean
+restaurant0.phone=213/653 -5858->address0.addr=' 8020 beverly blvd. '
+restaurant0.phone=213/658 -6340->address0.addr=' 7371 melrose ave. '
+restaurant0.phone=310/859 -0926->address0.addr=' 430 n. camden dr. '
+restaurant0.phone=213/628 -3781->address0.addr=' 1001 n. alameda st. '
+restaurant0.phone=213/937 -5733->address0.addr=' 7313 melrose ave. '
+restaurant0.phone=310/456 -0169->address0.addr=' 3835 cross creek rd. '
+restaurant0.phone=310/276 -6345->address0.addr=' 9876 wilshire blvd. '
+restaurant0.phone=213/660 -4446->address0.addr=' 1930 north hillhurst ave. '
+restaurant0.phone=310/823 -5396->address0.addr='60 n. venice blvd. '
+restaurant0.phone=212/964 -0380->address0.addr='20 mott st. between bowery and pell st. '
+restaurant0.phone=212/989 -1220->address0.addr=' 9 jones st. '
+restaurant0.phone=212/903 -3918->address0.addr=' 700 5th ave. at 55th st. '
+restaurant0.phone=212/473 -8388->address0.addr=' 937 broadway at 22nd st. '
+restaurant0.phone=818/990 -0500->address0.addr=' 12969 ventura blvd. '
+restaurant0.phone=212/627 -8899->address0.addr=' 311 w. 17th st. '
+restaurant0.phone=212/702 -5014->address0.addr=' 1 united nations plaza at 44th st. '
+restaurant0.phone=212/684 -2122->address0.addr=' 2 park ave. at 32nd st. '
+restaurant0.phone=212/308 -0112->address0.addr=' 222 e. 58th st. between 2nd and 3rd aves . '
+restaurant0.phone=212/838 -0440->address0.addr=' 206 206 e. 60th st. '
+restaurant0.phone=212/677 -3820->address0.addr=' 106 w. houston st. off thompson st. '
+restaurant0.phone=212/385 -0313->address0.addr=' 200-250 vesey st. world financial center '
+restaurant0.phone=212/246 -9171->address0.addr=' 321 w. 46th st. '
+restaurant0.phone=213/627 -2300->address0.addr=' 617 s. olive st. '
+restaurant0.phone=212/581 -8888->address0.addr=' 123 w. 52nd st. '
+restaurant0.phone=212/753 -1870->address0.addr=' 948 1st ave. between 52nd and 53rd sts . '
+restaurant0.phone=212/249 -8484->address0.addr=' 1393a 2nd ave. between 72nd and 73rd sts . '
+restaurant0.phone=212/758 -0323->address0.addr=' 420 e. 59th st. off 1st ave. '
+restaurant0.phone=212/727 -2775->address0.addr=' 225 varick st. at clarkston st. '
+restaurant0.phone=212/688 -4190->address0.addr=' 240 e. 58th st. '
+restaurant0.phone=212/840 -6500->address0.addr='25 w. 40th st. between 5th and 6th aves . '
+restaurant0.phone=212/254 -1200->address0.addr=' 103 waverly pl . near washington sq. '
+restaurant0.phone=310/472 -1211->address0.addr=' 701 stone canyon rd. '
+restaurant0.phone=310/652 -4025->address0.addr=' 1114 horn ave. '
+restaurant0.phone=212/995 -8500->address0.addr=' 111 e. 22nd st. between park ave. s and lexington ave. '
+restaurant0.phone=212/484 -5120->address0.addr=' 160 central park s '
+restaurant0.phone=212/873 -7411->address0.addr=' 200 w. 70th st. '
+restaurant0.phone=212/940 -8185->address0.addr=' 2 e. 61st st. '
+restaurant0.phone=212/818 -1222->address0.addr=' 200 park ave. between 45th st. and vanderbilt ave. '
+restaurant0.phone=212/473 -2642->address0.addr=' 169 sullivan st. between houston and bleecker sts . '
+restaurant0.phone=212/691 -8136->address0.addr=' 7 w. 20th st. '
+restaurant0.phone=212/966 -4900->address0.addr=' 451 washington st. near watts st. '
+restaurant0.phone=212/343 -9012->address0.addr='45 mercer st. between broome and grand sts . '
+restaurant0.phone=212/505 -0727->address0.addr='72 macdougal st. between w. houston and bleecker sts . '
+restaurant0.phone=818/585 -0855->address0.addr='67 n. raymond ave. '
+restaurant0.phone=212/371 -2323->address0.addr=' 160 e. 48th st. '
+restaurant0.phone=212/333 -7788->address0.addr='60 w. 53rd st. '
+restaurant0.phone=212/956 -7100->address0.addr=' 120 w. 51st st. '
+restaurant0.phone=212/794 -0205->address0.addr='23 e. 74th st. '
+restaurant0.phone=212/343 -1212->address0.addr=' 164 mulberry st. between grand and broome sts . '
+restaurant0.phone=212/941 -9024->address0.addr=' 341 w. broadway near grand st. '
+restaurant0.phone=212/582 -7200->address0.addr='21 w. 52nd st. '
+restaurant0.phone=212/645 -8023->address0.addr=' 181 w. 10th st. '
+restaurant0.phone=212/732 -5555->address0.addr=' 157 duane st. between w. broadway and hudson st. '
+restaurant0.phone=212/996 -1212->address0.addr=' 1325 5th ave. at 111th st. '
+restaurant0.phone=212/725 -1333->address0.addr=' 6 e. 32nd st. '
+restaurant0.phone=212/496 -1588->address0.addr=' 2150 broadway between 75th and 76th sts . '
+restaurant0.phone=212/744 -3266->address0.addr=' 1288 1st ave. at 69th st. '
+restaurant0.phone=212/226 -4621->address0.addr='39 desbrosses st. near west st. '
+restaurant0.phone=212/431 -0021->address0.addr=' 340 w. broadway at grand st. '
+restaurant0.phone=212/772 -9000->address0.addr='29 e. 65th st. '
+restaurant0.phone=212/758 -5757->address0.addr='57 e. 57th st. '
+restaurant0.phone=' 212 / 262-2525 '->address0.addr=' 635 9th ave. between 44th and 45th sts . '
+restaurant0.phone=212/595 -5330->address0.addr=' 1900 broadway between 63rd and 64th sts . '
+restaurant0.phone=212/595 -3139->address0.addr=' 522 columbus ave. between 85th and 86th sts . '
+restaurant0.phone=212/674 -3823->address0.addr='87 1st ave. between 5th and 6th sts . '
+restaurant0.phone=212/691 -8888->address0.addr='21 west 17th st. between 5th and 6th aves . '
+restaurant0.phone=212/691 -6359->address0.addr=' 6 w. 24th st. '
+restaurant0.phone=' 212 / 319-1660 '->address0.addr='34 e. 61st st. '
+restaurant0.phone=212/269 -0144->address0.addr='54 pearl st. at broad st. '
+restaurant0.phone=212/533 -2233->address0.addr=' 458 6th ave. at 11th st. '
+restaurant0.phone=212/564 -7272->address0.addr=' 402 w. 43rd st. off 9th ave. '
+restaurant0.phone=212/769 -1144->address0.addr=' 467 columbus ave. between 82nd and 83rd sts . '
+restaurant0.phone=212/245 -5336->address0.addr=' 228 w. 52nd st. '
+restaurant0.phone=212/752 -3054->address0.addr=' 208 e. 58th st. between 2nd and 3rd aves . '
+restaurant0.phone=212/477 -8427->address0.addr='33 93 2nd ave. between 5th and 6th sts . '
+restaurant0.phone=' 212 / 941-0911 '->address0.addr='18 e. broadway at catherine st. '
+restaurant0.phone=212/777 -5922->address0.addr=' 228 thompson st. between w. 3rd and bleecker sts . '
+restaurant0.phone=212/468 -8888->address0.addr=' 151 w. 54th st. in the rihga royal hotel '
+restaurant0.phone=212/249 -3600->address0.addr=' 1340 1st ave. at 72nd st. '
+restaurant0.phone=212/243 -9579->address0.addr='20 cornelia st. between bleecker and w. 4th st. '
+restaurant0.phone=212/786 -1500->address0.addr=' 4 world financial center '
+restaurant0.phone=212/481 -7372->address0.addr=' 122 e. 27th st. between lexington and park aves . '
+restaurant0.phone=212/226 -6060->address0.addr=' 125 mulberry st. between canal and hester sts . '
+restaurant0.phone=212/505 -5111->address0.addr=' 430 lafayette st. between 4th st. and astor pl . '
+restaurant0.phone=212/751 -2323->address0.addr='68 w. 58th st. '
+restaurant0.phone=212/869 -5544->address0.addr='15 w. 44th st. '
+restaurant0.phone=212/682 -5678->address0.addr=' 219 e. 44th st. between 2nd and 3rd aves . '
+restaurant0.phone=212/581 -6464->address0.addr=' 326 w. 46th st. '
+restaurant0.phone=212/582 -5252->address0.addr=' 152 w. 52nd st. '
+restaurant0.phone=212/794 -4950->address0.addr=' 227 e. 67th st. '
+restaurant0.phone=212/242 -4705->address0.addr=' 310 w. 4th st. between w. 12th and bank sts . '
+restaurant0.phone=212/388 -0978->address0.addr=' 432 lafayette st. near astor pl . '
+restaurant0.phone=212/247 -2993->address0.addr=' 4 w. 49th st. '
+restaurant0.phone=212/674 -7014->address0.addr=' 168 1st ave. between 10th and 11th sts . '
+restaurant0.phone=212/315 -0980->address0.addr=' 361 w. 46th st. '
+restaurant0.phone=212/751 -2931->address0.addr=' 106 e. 57th st. '
+restaurant0.phone=212/343 -9599->address0.addr='25 cleveland pl . near spring st. '
+restaurant0.phone=212/727 -8022->address0.addr=' 168 w. 18th st. '
+restaurant0.phone=212/869 -0900->address0.addr=' 150 w. 46th st. '
+restaurant0.phone=212/755 -6244->address0.addr=' 405 e. 52nd st. '
+restaurant0.phone=212/875 -1993->address0.addr=' 507 columbus ave. between 84th and 85th sts . '
+restaurant0.phone=212/679 -4111->address0.addr=' 411 park ave. s between 28th and 29th sts . '
+restaurant0.phone=212/721 -8271->address0.addr='51 w. 64th st. '
+restaurant0.phone=212/675 -6700->address0.addr='30 west 22nd st. between 5th and 6th ave. '
+restaurant0.phone=212/873 -5025->address0.addr=' 446 columbus ave. between 81st and 82nd sts . '
+restaurant0.phone=818/788 -3536->address0.addr=' 14016 ventura blvd. '
+restaurant0.phone=212/966 -6960->address0.addr=' 2 harrison st. near hudson st. '
+restaurant0.phone=212/956 -3976->address0.addr=' 800 9th ave. at 53rd st. '
+restaurant0.phone=212/888 -6556->address0.addr=' 1161 1st ave. between 63rd and 64th sts . '
+restaurant0.phone=212/777 -6314->address0.addr=' 325 e. 14th st. between 1st and 2nd aves . '
+restaurant0.phone=212/370 -1866->address0.addr=' 342 e. 46th st. between 1st and 2nd aves . '
+restaurant0.phone=212/906 -9173->address0.addr=' 160 mercer st. between houston and prince sts . '
+restaurant0.phone=212/838 -4343->address0.addr=' 1030 3rd ave. at 61st st. '
+restaurant0.phone=212/679 -5535->address0.addr='46 e. 29th st. '
+restaurant0.phone=212/838 -2600->address0.addr='60 e. 54th st. '
+restaurant0.phone=212/288 -0033->address0.addr='20 e. 76th st. '
+restaurant0.phone=212/421 -4433->address0.addr=' 1134 1st ave. between 62nd and 63rd sts . '
+restaurant0.phone=212/581 -8030->address0.addr=' 104 w. 57th st. near 6th ave. '
+restaurant0.phone=' 212 / 947-8482 '->address0.addr='32 w. 32nd st. '
+restaurant0.phone=212/349 -0923->address0.addr='28 1/2 bowery at bayard st. '
+restaurant0.phone=212/233 -0507->address0.addr=' 145 w. broadway at thomas st. '
+restaurant0.phone=212/489 -7212->address0.addr=' 322 w. 46th st. '
+restaurant0.phone=212/944 -3643->address0.addr=' 142 w. 44th st. '
+restaurant0.phone=212/223 -7575->address0.addr='68 e. 56th st. '
+restaurant0.phone=212/355 -7555->address0.addr=' 210 e. 58th st. '
+restaurant0.phone=212/941 -4168->address0.addr=' 138 lafayette st. between canal and howard sts . '
+restaurant0.phone=212/245 -4850->address0.addr=' 151 w. 51st . st. '
+restaurant0.phone=212/288 -2391->address0.addr='24 e. 81st st. '
+restaurant0.phone=212/872 -4895->address0.addr=' 301 park ave. between 49th and 50th sts . '
+restaurant0.phone=212/682 -8660->address0.addr=' 205 e. 45th st. '
+restaurant0.phone=212/274 -8883->address0.addr=' 109 spring st. between greene and mercer sts . '
+restaurant0.phone=212/333 -7827->address0.addr=' 140 w. 57th st. '
+restaurant0.phone=212/595 -8555->address0.addr=' 551 amsterdam ave. between 86th and 87th sts . '
+restaurant0.phone=212/935 -2888->address0.addr='28 e. 63rd st. '
+restaurant0.phone=212/501 -0776->address0.addr=' 100 w. 82nd st. '
+restaurant0.phone=212/627 -7172->address0.addr=' 37a union sq. w between 16th and 17th sts . '
+restaurant0.phone=212/245 -9600->address0.addr=' 148 w. 51st st. '
+restaurant0.phone=212/925 -3120->address0.addr=' 133 mulberry st. between hester and grand sts . '
+restaurant0.phone=212/754 -9494->address0.addr='99 e. 52nd st. '
+restaurant0.phone=212/982 -9030->address0.addr='55 irving pl . '
+restaurant0.phone=212/753 -9015->address0.addr='18 e. 54th st. '
+restaurant0.phone=212/496 -6280->address0.addr=' 423 amsterdam ave. between 80th and 81st sts . '
+restaurant0.phone=212/838 -3531->address0.addr=' 3 225 e. 60th st. '
+restaurant0.phone=212/744 -4107->address0.addr=' 643 park ave. at 66th st. '
+restaurant0.phone=212/873 -3700->address0.addr='58 w. 65th st. '
+restaurant0.phone=' 212 / 977-8400 '->address0.addr='57 w. 48th st. '
+restaurant0.phone=212/620 -4020->address0.addr='12 e. 12th st. '
+restaurant0.phone=212/734 -2676->address0.addr=' 1022 madison ave. near 79th st. '
+restaurant0.phone=212/966 -0290->address0.addr='62 spring st. at lafayette st. '
+restaurant0.phone=212/334 -8088->address0.addr='76 mott st. at canal st. '
+restaurant0.phone=212/956 -6888->address0.addr='65 w. 55th st. '
+restaurant0.phone=' 212 / 397-3737 '->address0.addr=' 950 8th ave. at 56th st. '
+restaurant0.phone=212/477 -0777->address0.addr='42 e. 20th st. between park ave. s and broadway '
+restaurant0.phone=212/496 -1066->address0.addr=' 2420 broadway at 89th st. '
+restaurant0.phone=212/245 -9800->address0.addr=' 900 7th ave. between 56th and 57th sts . '
+restaurant0.phone=212/472 -4488->address0.addr=' 345 e. 83rd st. '
+restaurant0.phone=212/941 -3900->address0.addr=' 375 greenwich st. near franklin st. '
+restaurant0.phone=212/688 -5447->address0.addr='34 e. 51st st. '
+restaurant0.phone=212/799 -0400->address0.addr=' 222 w. 79th st. '
+restaurant0.phone=212/260 -5454->address0.addr='54 irving pl . at 17th st. '
+restaurant0.phone=212/721 -0068->address0.addr='70 w. 68th st. '
+restaurant0.phone=212/486 -9592->address0.addr=' 200 e. 54th st. '
+restaurant0.phone=212/683 -3333->address0.addr=' 500 e. 30th st. '
+restaurant0.phone=212/246 -6363->address0.addr=' 63rd street steakhouse 44 w. 63rd st. '
+restaurant0.phone=212/966 -6722->address0.addr='90 prince st. between broadway and mercer st. '
+restaurant0.phone=212/223 -5656->address0.addr=' 160 e. 64th st. '
+restaurant0.phone=404/264 -9546->address0.addr=' 3195 roswell rd. '
+restaurant0.phone=404/262 -7379->address0.addr=' 3109 piedmont rd. . just south of peachtree rd. '
+restaurant0.phone=404/262 -3165->address0.addr=' 265 pharr rd. '
+restaurant0.phone=770/441 -- 0291->address0.addr=' 7050 jimmy carter blvd. . norcross '
+restaurant0.phone=404/872 -7203->address0.addr=' 1186 n. highland ave. '
+restaurant0.phone=212/586 -4252->address0.addr='33 w. 55th st. '
+restaurant0.phone=404/659 -2788->address0.addr=' 192 peachtree center ave. at international blvd. '
+restaurant0.phone=212/688 -6525->address0.addr='60 w. 55th st. between 5th and 6th ave. '
+restaurant0.phone=404/841 -0314->address0.addr=' 3300 peachtree rd. . grand hyatt '
+restaurant0.phone=770/395 -9925->address0.addr=` holiday inn/crowne plaza at ravinia dunwoody '
+restaurant0.phone=770/451 -0192->address0.addr=' c buford hwy . northwoods plaza doraville '
+restaurant0.phone=770/393 -1333->address0.addr=` park place across from perimeter mall dunwoody '
+restaurant0.phone=212/489 -1515->address0.addr=' 155 w. 51st st. '
+restaurant0.phone=404/874 -3223->address0.addr=' 555 peachtree st. at linden ave. '
+restaurant0.phone=404/237 -2941->address0.addr=' 500 pharr rd. '
+restaurant0.phone=404/875 -7775->address0.addr=' 870 n. highland ave. '
+restaurant0.phone=404/325 -5285->address0.addr=' 3043 buford hwy . '
+restaurant0.phone=770/449 -0033->address0.addr=' 6050 peachtree pkwy . norcross '
+restaurant0.phone=404/325 -6963->address0.addr=' 2345 cheshire bridge rd. '
+restaurant0.phone=212/484 -5113->address0.addr=' 160 central park s '
+restaurant0.phone=404/321 -1118->address0.addr=' 2165 cheshire bridge rd. '
+restaurant0.phone=702/252 -7737->address0.addr=' 3700 w. flamingo '
+restaurant0.phone=702/871 -3262->address0.addr=' 4850 flamingo rd. '
+restaurant0.phone=702/732 -1424->address0.addr=' 4041 audrie st. at flamingo rd. '
+restaurant0.phone=212/339 -6719->restaurant0.type=american
+restaurant0.phone=212/339 -6719->address0.addr=' 2 e. 55th st. '
+restaurant0.phone=702/432 -7777->address0.addr=' 4111 boulder hwy . '
+restaurant0.phone=702/735 -8686->address0.addr=' 1350 e. flamingo rd. '
+restaurant0.phone=702/731 -5311->address0.addr=' 3333 s. maryland pkwy . '
+restaurant0.phone=702/252 -7777->restaurant0.type=buffets
+restaurant0.phone=702/252 -7777->address0.addr=' 3700 w. flamingo rd. '
+restaurant0.phone=702/386 -2512->address0.addr=' 1 main st. '
+restaurant0.phone=702/731 -7888->restaurant0.type=asian
+restaurant0.phone=702/731 -7888->address0.addr=' 3570 las vegas blvd. s '
+restaurant0.phone=212/752 -2225->address0.addr=' 249 e. 50th st. '
+restaurant0.phone=702/737 -1234->address0.addr=' 1510 e. flamingo rd. '
+restaurant0.phone=702/731 -7525->restaurant0.type=` only in las vegas '
+restaurant0.phone=702/876 -4190->address0.addr=' 3713 w. sahara ave. '
+restaurant0.phone=415/431 -0692->address0.addr=' 2223 market st. '
+restaurant0.phone=415/567 -5432->address0.addr=' 1722 sacramento st. '
+restaurant0.phone=415/929 -8855->address0.addr=' 2030 union st. '
+restaurant0.phone=415/495 -6500->address0.addr=' 155 steuart st. '
+restaurant0.phone=415/433 -6300->address0.addr='56 gold st. '
+restaurant0.phone=415/543 -2222->address0.addr=' 598 fourth st. '
+restaurant0.phone=212/754 -6272->address0.addr=' 405 e. 58th st. '
+restaurant0.phone=415/776 -7766->address0.addr=' 800 greenwich st. '
+restaurant0.phone=415/474 -4180->address0.addr=' 3347 fillmore st. '
+restaurant0.phone=415/771 -3500->address0.addr=' 625 polk st. '
+restaurant0.phone=415/989 -2589->address0.addr=' 1600 powell st. '
+restaurant0.phone=415/863 -3516->address0.addr=' 1772 market st. '
+restaurant0.phone=415/296 -8555->address0.addr=' 500 jackson st. '
+restaurant0.phone=415/788 -9900->address0.addr=' 732 broadway '
+restaurant0.phone=212/807 -7400->address0.addr=' 102 5th ave. between 15th and 16th sts . '
+restaurant0.phone=415/982 -2000->address0.addr=' 1300 battery st. '
+restaurant0.phone=415/771 -8822->address0.addr=` ghirardelli sq. '
+restaurant0.phone=415/292 -0101->address0.addr=' 501 geary st. '
+restaurant0.phone=415/781 -8833->address0.addr=' 4 embarcadero center '
+restaurant0.phone=415/882 -1333->address0.addr=' 161 steuart st. '
+restaurant0.phone=415/668 -8998->address0.addr=' 5322 geary blvd. '
+restaurant0.phone=415/752 -8833->address0.addr=' 2332 clement st. '
+restaurant0.phone=415/441 -7778->address0.addr=' 1521 hyde st. '
+restaurant0.phone=415/986 -0100->address0.addr=' 1265 battery st. '
+restaurant0.phone=415/752 -5652->address0.addr=' 5116 geary blvd. '
+restaurant0.phone=415/397 -7720->address0.addr=' 221 powell st. '
+restaurant0.phone=415/546 -5000->address0.addr=' 2 new montgomery st. at market st. '
+restaurant0.phone=' 212 / 219-2777 '->address0.addr=' 239 w. broadway between walker and white sts . '
+restaurant0.phone=415/982 -1124->address0.addr=' 519 columbus ave. '
+restaurant0.phone=415/391 -2233->address0.addr=' 453 bush st. '
+restaurant0.phone=415/668 -4848->address0.addr=' 133 clement st. '
+restaurant0.phone=415/398 -5700->address0.addr=' 607 front st. '
+restaurant0.phone=415/861 -6224->address0.addr=' 3226 mission st. '
+restaurant0.phone=415/931 -1556->address0.addr=' 3131 webster st. '
+restaurant0.phone=310/392 -9025->address0.addr=' 2709 main st. '
+restaurant0.phone=415/777 -5577->address0.addr=' 1 market st. '
+restaurant0.phone=415/346 -1333->address0.addr=' 1915 fillmore st. '
+restaurant0.phone=415/929 -2087->address0.addr=' 500 post st. '
+restaurant0.phone=415/395 -9800->address0.addr=' 640 sacramento st. '
+restaurant0.phone=415/346 -2111->address0.addr=' 3011 steiner st. '
+restaurant0.phone=415/391 -2555->address0.addr=' 1015 battery st. '
+restaurant0.phone=415/922 -9022->address0.addr=' 1944 union st. '
+restaurant0.phone=415/434 -4100->address0.addr=' 558 sacramento st. '
+restaurant0.phone=415/421 -2300->address0.addr=' 1 tillman pl . '
+restaurant0.phone=212/644 -1900->address0.addr=' 100 e. 63rd st. '
+restaurant0.phone=415/346 -3486->address0.addr=' 1702 post st. '
+restaurant0.phone=415/395 -8555->address0.addr=' 432 powell st. '
+restaurant0.phone=415/495 -7275->address0.addr=' 108 south park '
+restaurant0.phone=415/861 -7827->address0.addr=' 150 redwood alley '
+restaurant0.phone=415/861 -4344->address0.addr=' 500 van ness ave. '
+restaurant0.phone=415/668 -1783->address0.addr=' 3300 geary blvd. '
+restaurant0.phone=212/245 -2214->address0.addr=' 182 w. 58th st. '
+restaurant0.phone=415/474 -8890->address0.addr=' 3235 sacramento st. '
+restaurant0.phone=415/863 -9335->address0.addr=' 298 gough st. '
+restaurant0.phone=415/752 -4440->address0.addr=' 3148 geary blvd. '
+restaurant0.phone=415/346 -4430->address0.addr=' 2125 fillmore st. '
+restaurant0.phone=415/673 -9245->address0.addr=' 670 golden gate ave. '
+restaurant0.phone=415/563 -9727->address0.addr=' 2257 chestnut st. '
+restaurant0.phone=415/957 -9300->address0.addr=' 101 spear st. '
+restaurant0.phone=415/541 -4949->address0.addr=' 427 battery st. '
+restaurant0.phone=415/922 -7788->address0.addr=' 1611 post st. '
+restaurant0.phone=310-475-3585->address0.addr=' 10801 w. pico blvd. '
+restaurant0.phone=818-795-2478->address0.addr='45 s. mentor ave. '
+restaurant0.phone=310-643-5229->address0.addr=' 1570 rosecrans ave. s. '
+restaurant0.phone=310-397-5703->address0.addr=' 3838 centinela ave. '
+restaurant0.phone=310-399-1955->address0.addr=' 838 lincoln blvd. '
+restaurant0.phone=310-209-1422->address0.addr=' 1136 westwood blvd. '
+restaurant0.phone=310-917-6671->address0.addr=' 502 santa monica blvd '
+restaurant0.phone=718/522 -5200->address0.addr=' 1 water st. at the east river '
+restaurant0.phone=213-651-3361->address0.addr=' 7507 melrose ave. '
+restaurant0.phone=213-933-0773->address0.addr=' 6333 w. third st. '
+restaurant0.phone=310-475-7564->address0.addr=' 10509 w. pico blvd. '
+restaurant0.phone=310-376-7786->address0.addr=' 22nd street grill 25 22nd '
+restaurant0.phone=310-306-7829->address0.addr=' 13329 washington blvd. '
+restaurant0.phone=310-451-0843->address0.addr=' 1147 third st. '
+restaurant0.phone=310-452-5728->address0.addr=' 3117 ocean park blvd. '
+restaurant0.phone=818-795-1001->address0.addr=' 510 s. arroyo pkwy . '
+restaurant0.phone=212/980 -9393->address0.addr='11 e. 53rd st. '
+restaurant0.phone=212/371 -8844->address0.addr='43 w. 65th st. '
+restaurant0.phone=212-242-0636->address0.addr=' 368 bleecker st. '
+restaurant0.phone=212/861 -8080->address0.addr=' 1110 3rd ave. at 65th st. '
+restaurant0.phone=212-496-0163->address0.addr=' 483 amsterdam ave. '
+restaurant0.phone=212-673-3783->address0.addr='86 w. third st. '
+restaurant0.phone=212/753 -1530->address0.addr=' 201 e. 49th st. '
+restaurant0.phone=212-741-3214->address0.addr=' 466 hudson st. '
+restaurant0.phone=212/873 -3200->address0.addr=` in central park at 67th st. '
+restaurant0.phone=212-410-7335->address0.addr=' 1295 madison ave. '
+restaurant0.phone=212/243 -4020->address0.addr='21 e. 16th st. '
+restaurant0.phone=702-252-7697->restaurant0.type=seafood
+restaurant0.phone=702-252-7697->address0.addr=' 3700 w. flamingo rd. '
+restaurant0.phone=702-891-7374->restaurant0.type=seafood
+restaurant0.phone=702-891-7374->address0.addr=' 3799 las vegas blvd. s. '
+restaurant0.phone=702-252-7702->restaurant0.type=italian
+restaurant0.phone=702-252-7702->address0.addr=' 3700 w. flamingo rd. '
+restaurant0.phone=' 212 / 921-9494 '->address0.addr=' 152 w. 44th st. '
+restaurant0.phone=702-894-7111->address0.addr=' 3300 las vegas blvd. s. '
+restaurant0.phone=702-792-9900->address0.addr=' 3925 paradise rd. '
+restaurant0.phone=702-369-2305->address0.addr=' 355 convention center dr. '
+restaurant0.phone=702-369-6300->address0.addr=' 3500 las vegas blvd. s. '
+restaurant0.phone=702/733 -8899->address0.addr=' 3200 las vegas blvd. s '
+restaurant0.phone=702-385-7111->address0.addr=' 129 fremont st. '
+restaurant0.phone=702-891-7331->restaurant0.type=italian
+restaurant0.phone=702-891-7331->address0.addr=' 3799 las vegas blvd. s. '
+restaurant0.phone=404-888-9149->address0.addr=' 600 ponce de leon ave. '
+restaurant0.phone=770-955-6068->address0.addr=' 2970 cobb pkwy . '
+restaurant0.phone=213/848 -6677->address0.addr=' 8358 sunset blvd. west '
+restaurant0.phone=404-237-4116->address0.addr=' 4330 peachtree rd. '
+restaurant0.phone=415-621-8579->address0.addr=' 2298 market st. '
+restaurant0.phone=415-921-2149->address0.addr=' 2217 union st. '
+restaurant0.phone=415-362-4454->address0.addr=' 333 bush st. '
+restaurant0.phone=415-776-8226->address0.addr=' 2209 polk st. '
+restaurant0.phone=415-626-6006->address0.addr=' 300 de haro st. '
+restaurant0.phone=415-252-7373->address0.addr=' 3108 16th st. '
+restaurant0.phone=415-563-2248->address0.addr=' 1870 fillmore st. '
+restaurant0.phone=310-472-1211->address0.addr=' 701 stone canyon rd. '
+restaurant0.phone=404/237 -2663->address0.addr=' 3130 piedmont road '
+restaurant0.phone=404/266 -1440->address0.addr=' 3393 peachtree rd. . lenox square mall near neiman marcus '
+restaurant0.phone=310-652-4025->address0.addr=' 8795 sunset blvd. '
+restaurant0.phone=404/262 -3336->address0.addr=' 3073 piedmont road '
+restaurant0.phone=404/874 -7600->address0.addr=' 1529 piedmont ave. '
+restaurant0.phone=212-339-6719->restaurant0.type=asian
+restaurant0.phone=212-339-6719->address0.addr=' 2 e. 55th st. '
+restaurant0.phone=404/681 -2909->address0.addr=' 1 margaret mitchell sq. '
+restaurant0.phone=404/352 -3517->address0.addr=' 2290 peachtree rd. . peachtree square shopping center '
+restaurant0.phone=702-891-7349->restaurant0.type=southwestern
+restaurant0.phone=404-365-0410->address0.addr=' 3125 piedmont rd. '
+restaurant0.phone=404/876 -4408->address0.addr=' 595 piedmont ave. rio shopping mall '
+restaurant0.phone=404-237-2700->address0.addr=' 3434 peachtree rd. ne '
+restaurant0.phone=310/276 -0615->address0.addr=' 9560 dayton way '
+restaurant0.phone=404/659 -0400->restaurant0.type=continental
+restaurant0.phone=404/659 -0400->address0.addr=' 181 peachtree st. '
+restaurant0.phone=404/351 -9533->address0.addr=' b peachtree rd. '
+restaurant0.phone=415/387 -0408->address0.addr=' 126 clement st. '
+restaurant0.phone=415/543 -6084->address0.addr=' 1 mission st. '
+restaurant0.phone=415/392 -3505->address0.addr=' 7 claude la . '
+restaurant0.phone=415/955 -5555->address0.addr=' 340 stockton st. '
+restaurant0.phone=702/791 -7111->address0.addr=' 3400 las vegas blvd. s '
+restaurant0.phone=702/731 -7547->address0.addr=' 3570 las vegas blvd. s '
+restaurant0.phone=702/734 -0410->address0.addr=' 2880 las vegas blvd. s '
+restaurant0.phone=702/385 -7111->address0.addr=' 129 e. fremont st. '
+restaurant0.phone=404-659-0400->address0.addr=' 181 peachtree st. '
+restaurant0.type=steakhouses->address0.addr=' 435 s. la cienega blvd. '
+restaurant0.type=` french ( new ) '->restaurant0.name=` fleur de lys '
+restaurant0.type=` french bistro '->address0.addr=' 570 fourth st. '
+restaurant0.type=thai->restaurant0.name=` khan toke thai house '
+restaurant0.type=` coffee shops/diners '->restaurant0.phone=702/731 -7547
+restaurant0.type=` steak houses '->restaurant0.phone=702/734 -0410
+restaurant0.type=` french ( classic ) '->restaurant0.phone=404-659-0400
+restaurant0.type=mediterranean->address0.addr=' 3rd st. '
+restaurant0.type=` only in las vegas '->address0.addr=' 3570 las vegas blvd. s '
+restaurant0.type=southwestern->address0.addr=' 3799 las vegas blvd. s. '
+address0.addr=' 435 s. la cienega blv . '->restaurant0.name=` arnie morton / 's of chicago '
+address0.addr=' 435 s. la cienega blv . '->restaurant0.type=american
+address0.addr=' 570 4th st. '->restaurant0.name=fringale
+address0.addr=' 570 4th st. '->restaurant0.type=french
+address0.addr=' 145 w. 53rd st. '->restaurant0.name=remi
+address0.addr=' 8600 beverly blvd. '->restaurant0.name=` hard rock cafe '
+address0.addr=' 8783 beverly blvd. '->restaurant0.name=` le colonial '
+address0.addr=' 8764 melrose ave. '->restaurant0.name=` morton / 's '
+address0.addr=' 221 w. 57th st. '->restaurant0.name=` hard rock cafe '
+address0.addr=' 2450 broadway between 90th and 91st sts . '->restaurant0.name=` carmine / 's '
+address0.addr=' 149 e. 57th st. '->restaurant0.name=` le colonial '
+address0.addr=' 551 5th ave. at 45th st. '->restaurant0.name=` morton / 's '
+address0.addr=' 3500 peachtree rd. . phipps plaza '->restaurant0.name=` bertolini / 's '
+address0.addr=' 240 central park s '->restaurant0.name=` san domenico '
+address0.addr=' 2355 peachtree rd. . peachtree battle shopping center '->restaurant0.name=abruzzi
+address0.addr=' 435 s. la cienega blvd. '->restaurant0.name=` arnie morton / 's of chicago '
+address0.addr=' 8638 w. third st. '->restaurant0.name=` locanda veneta '
+address0.addr=' 2450 broadway '->restaurant0.name=` carmine / 's '
+address0.addr=' 240 central park s. '->restaurant0.name=` san domenico '
+address0.addr=' 2355 peachtree rd. ne '->restaurant0.name=abruzzi
+address0.addr=' 2637 peachtree rd. ne '->restaurant0.name=` la grotta '
+address0.addr=' 2637 peachtree rd. . peachtree house condominium '->restaurant0.name=` la grotta '
+address0.addr=' 804 north point st. '->restaurant0.name=` chez michel '
+address0.addr=' 804 north point st. '->restaurant0.type=californian
+address0.addr=' 570 fourth st. '->restaurant0.name=fringale
+address0.addr=' 804 northpoint '->restaurant0.name=` chez michel '
+address0.addr=' 804 northpoint '->restaurant0.type=french
+address0.addr=' 12224 ventura blvd. '->restaurant0.type=american
+address0.addr=' 1972 n. hillhurst ave. '->restaurant0.type=asian
+address0.addr=' 2316 polk st. '->restaurant0.type=french
+address0.addr=' 648 bush st. '->restaurant0.type=french
+address0.addr=' 1737 post st. '->restaurant0.type=asian
+address0.addr=' 903 n. la cienega blvd. '->restaurant0.type=french
+address0.addr=' 600 stockton st. '->restaurant0.type=american
+address0.addr=' 532 columbus ave. '->restaurant0.type=italian
+address0.addr=' 251 e. 53rd st. '->restaurant0.type=italian
+address0.addr=' 2930 beverly glen circle '->restaurant0.type=italian
+address0.addr=' 9570 wilshire blvd. '->restaurant0.type=american
+address0.addr=' 26025 pacific coast hwy . '->restaurant0.type=french
+address0.addr=' 176 n. canon dr. '->restaurant0.type=californian
+address0.addr=' 8284 melrose ave. '->restaurant0.type=french
+address0.addr=' 346 s. la brea ave. '->restaurant0.type=italian
+address0.addr=' 4100 cahuenga blvd. '->restaurant0.type=italian
+address0.addr=' 700 w. fifth st. '->restaurant0.type=californian
+address0.addr=' 207 s. beverly dr. '->restaurant0.type=californian
+address0.addr=' 419 n. fairfax ave. '->restaurant0.type=american
+address0.addr=' 310 n. larchmont blvd. '->restaurant0.type=asian
+address0.addr=' 9500 wilshire blvd. '->restaurant0.type=californian
+address0.addr=' 2628 wilshire blvd. '->restaurant0.type=italian
+address0.addr=' 730 n. la cienega blvd. '->restaurant0.type=french
+address0.addr=' 8800 melrose ave. '->restaurant0.type=californian
+address0.addr=' 134 n. la cienega '->restaurant0.type=american
+address0.addr=' 2424 main st. '->restaurant0.type=american
+address0.addr=' 4 fish 17300 pacific coast hwy . at sunset blvd. '->restaurant0.type=american
+address0.addr=' 129 n. la cienega blvd. '->restaurant0.type=asian
+address0.addr=' 2020 ave. of the stars '->restaurant0.type=italian
+address0.addr=' 301 n. beverly dr. '->restaurant0.type=italian
+address0.addr=' 439 n. beverly drive '->restaurant0.type=californian
+address0.addr=' 9255 sunset blvd. '->restaurant0.type=asian
+address0.addr=' 8720 sunset blvd. '->restaurant0.type=french
+address0.addr=' 4500 los feliz blvd. '->restaurant0.type=italian
+address0.addr=' 9001 santa monica blvd. '->restaurant0.type=american
+address0.addr=' 679 n. spring st. '->restaurant0.type=asian
+address0.addr=' 414 n. beverly dr. '->restaurant0.type=american
+address0.addr=' 601 s. figueroa st. '->restaurant0.type=american
+address0.addr=' 1401 ocean ave. '->restaurant0.type=american
+address0.addr=' 6th st. '->restaurant0.type=american
+address0.addr=' 10001 riverside dr. '->restaurant0.type=american
+address0.addr=' 1448 n. gower st. '->restaurant0.type=californian
+address0.addr=' 14928 ventura blvd. '->restaurant0.type=italian
+address0.addr=' 5955 melrose ave. '->restaurant0.type=californian
+address0.addr=' 362 n. camden dr. '->restaurant0.type=italian
+address0.addr=' 252 n. beverly dr. '->restaurant0.type=american
+address0.addr=' 111 s. san pedro st. '->restaurant0.type=asian
+address0.addr=' 1514 n. gower st. '->restaurant0.type=american
+address0.addr=' 8020 beverly blvd. '->restaurant0.type=american
+address0.addr=' 7371 melrose ave. '->restaurant0.type=italian
+address0.addr=' 430 n. camden dr. '->restaurant0.type=asian
+address0.addr=' 1001 n. alameda st. '->restaurant0.type=american
+address0.addr=' 7313 melrose ave. '->restaurant0.type=asian
+address0.addr=' 3835 cross creek rd. '->restaurant0.type=italian
+address0.addr=' 9876 wilshire blvd. '->restaurant0.type=asian
+address0.addr=' 1930 north hillhurst ave. '->restaurant0.type=american
+address0.addr='60 n. venice blvd. '->restaurant0.type=american
+address0.addr='20 mott st. between bowery and pell st. '->restaurant0.type=asian
+address0.addr=' 9 jones st. '->restaurant0.type=american
+address0.addr=' 700 5th ave. at 55th st. '->restaurant0.type=french
+address0.addr=' 937 broadway at 22nd st. '->restaurant0.type=american
+address0.addr=' 12969 ventura blvd. '->restaurant0.type=french
+address0.addr=' 311 w. 17th st. '->restaurant0.type=american
+address0.addr=' 1 united nations plaza at 44th st. '->restaurant0.type=american
+address0.addr=' 2 park ave. at 32nd st. '->restaurant0.type=american
+address0.addr=' 222 e. 58th st. between 2nd and 3rd aves . '->restaurant0.type=italian
+address0.addr=' 206 206 e. 60th st. '->restaurant0.type=american
+address0.addr=' 106 w. houston st. off thompson st. '->restaurant0.type=italian
+address0.addr=' 200-250 vesey st. world financial center '->restaurant0.type=asian
+address0.addr=' 321 w. 46th st. '->restaurant0.type=italian
+address0.addr=' 617 s. olive st. '->restaurant0.type=italian
+address0.addr=' 123 w. 52nd st. '->restaurant0.type=american
+address0.addr=' 948 1st ave. between 52nd and 53rd sts . '->restaurant0.type=american
+address0.addr=' 1393a 2nd ave. between 72nd and 73rd sts . '->restaurant0.type=asian
+address0.addr=' 420 e. 59th st. off 1st ave. '->restaurant0.type=french
+address0.addr=' 225 varick st. at clarkston st. '->restaurant0.type=american
+address0.addr=' 240 e. 58th st. '->restaurant0.type=italian
+address0.addr='25 w. 40th st. between 5th and 6th aves . '->restaurant0.type=american
+address0.addr=' 103 waverly pl . near washington sq. '->restaurant0.type=american
+address0.addr=' 701 stone canyon rd. '->restaurant0.type=californian
+address0.addr=' 1114 horn ave. '->restaurant0.type=californian
+address0.addr=' 111 e. 22nd st. between park ave. s and lexington ave. '->restaurant0.type=french
+address0.addr=' 160 central park s '->restaurant0.type=french
+address0.addr=' 200 w. 70th st. '->restaurant0.type=french
+address0.addr=' 2 e. 61st st. '->restaurant0.type=french
+address0.addr=' 200 park ave. between 45th st. and vanderbilt ave. '->restaurant0.type=french
+address0.addr=' 3115 pico blvd. '->restaurant0.type=italian
+address0.addr=' 169 sullivan st. between houston and bleecker sts . '->restaurant0.type=french
+address0.addr=' 7 w. 20th st. '->restaurant0.type=italian
+address0.addr=' 451 washington st. near watts st. '->restaurant0.type=french
+address0.addr='45 mercer st. between broome and grand sts . '->restaurant0.type=asian
+address0.addr='72 macdougal st. between w. houston and bleecker sts . '->restaurant0.type=french
+address0.addr='67 n. raymond ave. '->restaurant0.type=asian
+address0.addr=' 160 e. 48th st. '->restaurant0.type=asian
+address0.addr='60 w. 53rd st. '->restaurant0.type=american
+address0.addr=' 120 w. 51st st. '->restaurant0.type=french
+address0.addr='23 e. 74th st. '->restaurant0.type=italian
+address0.addr=' 164 mulberry st. between grand and broome sts . '->restaurant0.type=italian
+address0.addr=' 341 w. broadway near grand st. '->restaurant0.type=italian
+address0.addr='21 w. 52nd st. '->restaurant0.type=american
+address0.addr=' 181 w. 10th st. '->restaurant0.type=french
+address0.addr=' 157 duane st. between w. broadway and hudson st. '->restaurant0.type=american
+address0.addr=' 1325 5th ave. at 111th st. '->restaurant0.type=american
+address0.addr=' 6 e. 32nd st. '->restaurant0.type=asian
+address0.addr=' 2150 broadway between 75th and 76th sts . '->restaurant0.type=american
+address0.addr=' 1288 1st ave. at 69th st. '->restaurant0.type=asian
+address0.addr='39 desbrosses st. near west st. '->restaurant0.type=italian
+address0.addr=' 340 w. broadway at grand st. '->restaurant0.type=french
+address0.addr='29 e. 65th st. '->restaurant0.type=french
+address0.addr='57 e. 57th st. '->restaurant0.type=american
+address0.addr=' 635 9th ave. between 44th and 45th sts . '->restaurant0.type=american
+address0.addr=' 1900 broadway between 63rd and 64th sts . '->restaurant0.type=italian
+address0.addr=' 522 columbus ave. between 85th and 86th sts . '->restaurant0.type=american
+address0.addr='87 1st ave. between 5th and 6th sts . '->restaurant0.type=american
+address0.addr='21 west 17th st. between 5th and 6th aves . '->restaurant0.type=american
+address0.addr=' 6 w. 24th st. '->restaurant0.type=italian
+address0.addr='34 e. 61st st. '->restaurant0.type=american
+address0.addr='54 pearl st. at broad st. '->restaurant0.type=american
+address0.addr=' 458 6th ave. at 11th st. '->restaurant0.type=french
+address0.addr=' 402 w. 43rd st. off 9th ave. '->restaurant0.type=italian
+address0.addr=' 467 columbus ave. between 82nd and 83rd sts . '->restaurant0.type=asian
+address0.addr=' 228 w. 52nd st. '->restaurant0.type=american
+address0.addr=' 208 e. 58th st. between 2nd and 3rd aves . '->restaurant0.type=italian
+address0.addr='33 93 2nd ave. between 5th and 6th sts . '->restaurant0.type=american
+address0.addr='18 e. broadway at catherine st. '->restaurant0.type=asian
+address0.addr=' 228 thompson st. between w. 3rd and bleecker sts . '->restaurant0.type=italian
+address0.addr=' 151 w. 54th st. in the rihga royal hotel '->restaurant0.type=american
+address0.addr=' 1340 1st ave. at 72nd st. '->restaurant0.type=american
+address0.addr='20 cornelia st. between bleecker and w. 4th st. '->restaurant0.type=american
+address0.addr=' 4 world financial center '->restaurant0.type=american
+address0.addr=' 122 e. 27th st. between lexington and park aves . '->restaurant0.type=italian
+address0.addr=' 125 mulberry st. between canal and hester sts . '->restaurant0.type=italian
+address0.addr=' 430 lafayette st. between 4th st. and astor pl . '->restaurant0.type=asian
+address0.addr='68 w. 58th st. '->restaurant0.type=french
+address0.addr='15 w. 44th st. '->restaurant0.type=asian
+address0.addr=' 219 e. 44th st. between 2nd and 3rd aves . '->restaurant0.type=asian
+address0.addr=' 326 w. 46th st. '->restaurant0.type=american
+address0.addr=' 152 w. 52nd st. '->restaurant0.type=american
+address0.addr=' 227 e. 67th st. '->restaurant0.type=french
+address0.addr=' 310 w. 4th st. between w. 12th and bank sts . '->restaurant0.type=french
+address0.addr=' 432 lafayette st. near astor pl . '->restaurant0.type=french
+address0.addr=' 4 w. 49th st. '->restaurant0.type=french
+address0.addr=' 168 1st ave. between 10th and 11th sts . '->restaurant0.type=italian
+address0.addr=' 361 w. 46th st. '->restaurant0.type=italian
+address0.addr=' 106 e. 57th st. '->restaurant0.type=french
+address0.addr='25 cleveland pl . near spring st. '->restaurant0.type=french
+address0.addr=' 168 w. 18th st. '->restaurant0.type=italian
+address0.addr=' 150 w. 46th st. '->restaurant0.type=american
+address0.addr=' 405 e. 52nd st. '->restaurant0.type=french
+address0.addr=' 507 columbus ave. between 84th and 85th sts . '->restaurant0.type=american
+address0.addr=' 411 park ave. s between 28th and 29th sts . '->restaurant0.type=french
+address0.addr='51 w. 64th st. '->restaurant0.type=american
+address0.addr='30 west 22nd st. between 5th and 6th ave. '->restaurant0.type=american
+address0.addr=' 446 columbus ave. between 81st and 82nd sts . '->restaurant0.type=american
+address0.addr=' 14016 ventura blvd. '->restaurant0.type=french
+address0.addr=' 2 harrison st. near hudson st. '->restaurant0.type=american
+address0.addr=' 800 9th ave. at 53rd st. '->restaurant0.type=italian
+address0.addr=' 1161 1st ave. between 63rd and 64th sts . '->restaurant0.type=american
+address0.addr=' 325 e. 14th st. between 1st and 2nd aves . '->restaurant0.type=asian
+address0.addr=' 342 e. 46th st. between 1st and 2nd aves . '->restaurant0.type=french
+address0.addr=' 160 mercer st. between houston and prince sts . '->restaurant0.type=american
+address0.addr=' 1030 3rd ave. at 61st st. '->restaurant0.type=american
+address0.addr='46 e. 29th st. '->restaurant0.type=asian
+address0.addr='60 e. 54th st. '->restaurant0.type=american
+address0.addr='20 e. 76th st. '->restaurant0.type=french
+address0.addr=' 1134 1st ave. between 62nd and 63rd sts . '->restaurant0.type=asian
+address0.addr=' 104 w. 57th st. near 6th ave. '->restaurant0.type=american
+address0.addr='32 w. 32nd st. '->restaurant0.type=asian
+address0.addr='28 1/2 bowery at bayard st. '->restaurant0.type=asian
+address0.addr=' 145 w. broadway at thomas st. '->restaurant0.type=american
+address0.addr=' 322 w. 46th st. '->restaurant0.type=italian
+address0.addr=' 142 w. 44th st. '->restaurant0.type=italian
+address0.addr='68 e. 56th st. '->restaurant0.type=asian
+address0.addr=' 210 e. 58th st. '->restaurant0.type=asian
+address0.addr=' 138 lafayette st. between canal and howard sts . '->restaurant0.type=asian
+address0.addr=' 151 w. 51st . st. '->restaurant0.type=italian
+address0.addr='24 e. 81st st. '->restaurant0.type=italian
+address0.addr=' 301 park ave. between 49th and 50th sts . '->restaurant0.type=french
+address0.addr=' 205 e. 45th st. '->restaurant0.type=american
+address0.addr=' 109 spring st. between greene and mercer sts . '->restaurant0.type=asian
+address0.addr=' 140 w. 57th st. '->restaurant0.type=american
+address0.addr=' 243 e. 58th st. '->restaurant0.type=italian
+address0.addr=' 551 amsterdam ave. between 86th and 87th sts . '->restaurant0.type=american
+address0.addr='28 e. 63rd st. '->restaurant0.type=american
+address0.addr=' 100 w. 82nd st. '->restaurant0.type=asian
+address0.addr=' 37a union sq. w between 16th and 17th sts . '->restaurant0.type=asian
+address0.addr=' 148 w. 51st st. '->restaurant0.type=american
+address0.addr=' 133 mulberry st. between hester and grand sts . '->restaurant0.type=italian
+address0.addr='99 e. 52nd st. '->restaurant0.type=american
+address0.addr='55 irving pl . '->restaurant0.type=italian
+address0.addr='18 e. 54th st. '->restaurant0.type=italian
+address0.addr=' 423 amsterdam ave. between 80th and 81st sts . '->restaurant0.type=american
+address0.addr=' 3 225 e. 60th st. '->restaurant0.type=american
+address0.addr=' 643 park ave. at 66th st. '->restaurant0.type=american
+address0.addr='58 w. 65th st. '->restaurant0.type=american
+address0.addr='57 w. 48th st. '->restaurant0.type=asian
+address0.addr='12 e. 12th st. '->restaurant0.type=american
+address0.addr=' 1022 madison ave. near 79th st. '->restaurant0.type=italian
+address0.addr='62 spring st. at lafayette st. '->restaurant0.type=american
+address0.addr='76 mott st. at canal st. '->restaurant0.type=asian
+address0.addr='65 w. 55th st. '->restaurant0.type=asian
+address0.addr=' 950 8th ave. at 56th st. '->restaurant0.type=american
+address0.addr='42 e. 20th st. between park ave. s and broadway '->restaurant0.type=american
+address0.addr=' 2420 broadway at 89th st. '->restaurant0.type=american
+address0.addr=' 900 7th ave. between 56th and 57th sts . '->restaurant0.type=italian
+address0.addr=' 345 e. 83rd st. '->restaurant0.type=italian
+address0.addr=' 375 greenwich st. near franklin st. '->restaurant0.type=american
+address0.addr='34 e. 51st st. '->restaurant0.type=asian
+address0.addr=' 222 w. 79th st. '->restaurant0.type=american
+address0.addr='54 irving pl . at 17th st. '->restaurant0.type=american
+address0.addr='70 w. 68th st. '->restaurant0.type=american
+address0.addr=' 200 e. 54th st. '->restaurant0.type=american
+address0.addr=' 500 e. 30th st. '->restaurant0.type=american
+address0.addr=' 63rd street steakhouse 44 w. 63rd st. '->restaurant0.type=american
+address0.addr='90 prince st. between broadway and mercer st. '->restaurant0.type=american
+address0.addr=' 160 e. 64th st. '->restaurant0.type=american
+address0.addr=' 3195 roswell rd. '->restaurant0.type=asian
+address0.addr=' 3109 piedmont rd. . just south of peachtree rd. '->restaurant0.type=american
+address0.addr=' 265 pharr rd. '->restaurant0.type=american
+address0.addr=' 7050 jimmy carter blvd. . norcross '->restaurant0.type=american
+address0.addr=' 1186 n. highland ave. '->restaurant0.type=italian
+address0.addr='33 w. 55th st. '->restaurant0.type=french
+address0.addr=' 192 peachtree center ave. at international blvd. '->restaurant0.type=asian
+address0.addr='60 w. 55th st. between 5th and 6th ave. '->restaurant0.type=french
+address0.addr=' 3300 peachtree rd. . grand hyatt '->restaurant0.type=asian
+address0.addr=` holiday inn/crowne plaza at ravinia dunwoody '->restaurant0.type=italian
+address0.addr=' c buford hwy . northwoods plaza doraville '->restaurant0.type=asian
+address0.addr=` park place across from perimeter mall dunwoody '->restaurant0.type=italian
+address0.addr=' 155 w. 51st st. '->restaurant0.type=french
+address0.addr=' 555 peachtree st. at linden ave. '->restaurant0.type=american
+address0.addr=' 500 pharr rd. '->restaurant0.type=italian
+address0.addr=' 870 n. highland ave. '->restaurant0.type=american
+address0.addr=' 3043 buford hwy . '->restaurant0.type=asian
+address0.addr=' 6050 peachtree pkwy . norcross '->restaurant0.type=asian
+address0.addr=' 2345 cheshire bridge rd. '->restaurant0.type=french
+address0.addr=' 2165 cheshire bridge rd. '->restaurant0.type=american
+address0.addr=' 3700 w. flamingo '->restaurant0.type=italian
+address0.addr=' 4850 flamingo rd. '->restaurant0.type=asian
+address0.addr=' 4041 audrie st. at flamingo rd. '->restaurant0.type=italian
+address0.addr=' 4111 boulder hwy . '->restaurant0.type=american
+address0.addr=' 1350 e. flamingo rd. '->restaurant0.type=american
+address0.addr=' 3333 s. maryland pkwy . '->restaurant0.type=italian
+address0.addr=' 1 main st. '->restaurant0.type=american
+address0.addr=' 249 e. 50th st. '->restaurant0.type=french
+address0.addr=' 1510 e. flamingo rd. '->restaurant0.type=asian
+address0.addr=' 3713 w. sahara ave. '->restaurant0.type=italian
+address0.addr=' 2223 market st. '->restaurant0.type=american
+address0.addr=' 1722 sacramento st. '->restaurant0.type=italian
+address0.addr=' 2030 union st. '->restaurant0.type=asian
+address0.addr=' 155 steuart st. '->restaurant0.type=french
+address0.addr='56 gold st. '->restaurant0.type=american
+address0.addr=' 598 fourth st. '->restaurant0.type=french
+address0.addr=' 405 e. 58th st. '->restaurant0.type=american
+address0.addr=' 800 greenwich st. '->restaurant0.type=italian
+address0.addr=' 3347 fillmore st. '->restaurant0.type=italian
+address0.addr=' 625 polk st. '->restaurant0.type=french
+address0.addr=' 1600 powell st. '->restaurant0.type=italian
+address0.addr=' 1772 market st. '->restaurant0.type=american
+address0.addr=' 500 jackson st. '->restaurant0.type=american
+address0.addr=' 732 broadway '->restaurant0.type=french
+address0.addr=' 102 5th ave. between 15th and 16th sts . '->restaurant0.type=american
+address0.addr=' 1300 battery st. '->restaurant0.type=american
+address0.addr=` ghirardelli sq. '->restaurant0.type=asian
+address0.addr=' 501 geary st. '->restaurant0.type=american
+address0.addr=' 4 embarcadero center '->restaurant0.type=asian
+address0.addr=' 161 steuart st. '->restaurant0.type=american
+address0.addr=' 5322 geary blvd. '->restaurant0.type=asian
+address0.addr=' 2332 clement st. '->restaurant0.type=asian
+address0.addr=' 1521 hyde st. '->restaurant0.type=italian
+address0.addr=' 1265 battery st. '->restaurant0.type=italian
+address0.addr=' 5116 geary blvd. '->restaurant0.type=asian
+address0.addr=' 221 powell st. '->restaurant0.type=italian
+address0.addr=' 2 new montgomery st. at market st. '->restaurant0.type=asian
+address0.addr=' 239 w. broadway between walker and white sts . '->restaurant0.type=french
+address0.addr=' 519 columbus ave. '->restaurant0.type=italian
+address0.addr=' 453 bush st. '->restaurant0.type=french
+address0.addr=' 133 clement st. '->restaurant0.type=asian
+address0.addr=' 607 front st. '->restaurant0.type=american
+address0.addr=' 3226 mission st. '->restaurant0.type=asian
+address0.addr=' 3131 webster st. '->restaurant0.type=asian
+address0.addr=' 2709 main st. '->restaurant0.type=french
+address0.addr=' 1 market st. '->restaurant0.type=american
+address0.addr=' 1915 fillmore st. '->restaurant0.type=italian
+address0.addr=' 500 post st. '->restaurant0.type=french
+address0.addr=' 640 sacramento st. '->restaurant0.type=italian
+address0.addr=' 3011 steiner st. '->restaurant0.type=italian
+address0.addr=' 1015 battery st. '->restaurant0.type=french
+address0.addr=' 1944 union st. '->restaurant0.type=american
+address0.addr=' 558 sacramento st. '->restaurant0.type=american
+address0.addr=' 1 tillman pl . '->restaurant0.type=american
+address0.addr=' 100 e. 63rd st. '->restaurant0.type=american
+address0.addr=' 1702 post st. '->restaurant0.type=asian
+address0.addr=' 432 powell st. '->restaurant0.type=italian
+address0.addr=' 108 south park '->restaurant0.type=french
+address0.addr=' 150 redwood alley '->restaurant0.type=american
+address0.addr=' 500 van ness ave. '->restaurant0.type=american
+address0.addr=' 3300 geary blvd. '->restaurant0.type=asian
+address0.addr=' 182 w. 58th st. '->restaurant0.type=french
+address0.addr=' 3235 sacramento st. '->restaurant0.type=french
+address0.addr=' 298 gough st. '->restaurant0.type=asian
+address0.addr=' 3148 geary blvd. '->restaurant0.type=asian
+address0.addr=' 2125 fillmore st. '->restaurant0.type=italian
+address0.addr=' 670 golden gate ave. '->restaurant0.type=italian
+address0.addr=' 2257 chestnut st. '->restaurant0.type=american
+address0.addr=' 101 spear st. '->restaurant0.type=asian
+address0.addr=' 427 battery st. '->restaurant0.type=asian
+address0.addr=' 1611 post st. '->restaurant0.type=french
+address0.addr=' 10801 w. pico blvd. '->restaurant0.type=american
+address0.addr='45 s. mentor ave. '->restaurant0.type=californian
+address0.addr=' 1570 rosecrans ave. s. '->restaurant0.type=californian
+address0.addr=' 3838 centinela ave. '->restaurant0.type=italian
+address0.addr=' 838 lincoln blvd. '->restaurant0.type=american
+address0.addr=' 1136 westwood blvd. '->restaurant0.type=italian
+address0.addr=' 502 santa monica blvd '->restaurant0.type=californian
+address0.addr=' 1 water st. at the east river '->restaurant0.type=american
+address0.addr=' 7507 melrose ave. '->restaurant0.type=american
+address0.addr=' 6333 w. third st. '->restaurant0.type=american
+address0.addr=' 10509 w. pico blvd. '->restaurant0.type=american
+address0.addr=' 22nd street grill 25 22nd '->restaurant0.type=american
+address0.addr=' 13329 washington blvd. '->restaurant0.type=american
+address0.addr=' 1147 third st. '->restaurant0.type=californian
+address0.addr=' 3117 ocean park blvd. '->restaurant0.type=american
+address0.addr=' 510 s. arroyo pkwy . '->restaurant0.type=californian
+address0.addr='11 e. 53rd st. '->restaurant0.type=asian
+address0.addr=' 6703 melrose ave. '->restaurant0.type=californian
+address0.addr='43 w. 65th st. '->restaurant0.type=asian
+address0.addr=' 368 bleecker st. '->restaurant0.type=italian
+address0.addr=' 1110 3rd ave. at 65th st. '->restaurant0.type=american
+address0.addr=' 483 amsterdam ave. '->restaurant0.type=american
+address0.addr='86 w. third st. '->restaurant0.type=italian
+address0.addr=' 201 e. 49th st. '->restaurant0.type=american
+address0.addr=' 466 hudson st. '->restaurant0.type=asian
+address0.addr=` in central park at 67th st. '->restaurant0.type=american
+address0.addr=' 1295 madison ave. '->restaurant0.type=american
+address0.addr='21 e. 16th st. '->restaurant0.type=american
+address0.addr=' 152 w. 44th st. '->restaurant0.type=american
+address0.addr=' 3300 las vegas blvd. s. '->restaurant0.type=asian
+address0.addr=' 3925 paradise rd. '->restaurant0.type=italian
+address0.addr=' 355 convention center dr. '->restaurant0.type=italian
+address0.addr=' 3500 las vegas blvd. s. '->restaurant0.type=californian
+address0.addr=' 3200 las vegas blvd. s '->restaurant0.type=asian
+address0.addr=' 129 fremont st. '->restaurant0.type=italian
+address0.addr=' 600 ponce de leon ave. '->restaurant0.type=italian
+address0.addr=' 2970 cobb pkwy . '->restaurant0.type=american
+address0.addr=' 8358 sunset blvd. west '->restaurant0.type=american
+address0.addr=' 4330 peachtree rd. '->restaurant0.type=american
+address0.addr=' 2298 market st. '->restaurant0.type=californian
+address0.addr=' 2217 union st. '->restaurant0.type=american
+address0.addr=' 333 bush st. '->restaurant0.type=californian
+address0.addr=' 2209 polk st. '->restaurant0.type=italian
+address0.addr=' 300 de haro st. '->restaurant0.type=american
+address0.addr=' 3108 16th st. '->restaurant0.type=french
+address0.addr=' 1870 fillmore st. '->restaurant0.type=american
+address0.addr=' 23725 w. malibu rd. '->restaurant0.type=californian
+address0.addr=' 3130 piedmont road '->restaurant0.type=american
+address0.addr=' 3393 peachtree rd. . lenox square mall near neiman marcus '->restaurant0.type=french
+address0.addr=' 8795 sunset blvd. '->restaurant0.type=californian
+address0.addr=' 3073 piedmont road '->restaurant0.type=american
+address0.addr=' 1529 piedmont ave. '->restaurant0.type=french
+address0.addr=' 1 margaret mitchell sq. '->restaurant0.type=american
+address0.addr=' 2290 peachtree rd. . peachtree square shopping center '->restaurant0.type=american
+address0.addr=' 3125 piedmont rd. '->restaurant0.type=californian
+address0.addr=' 595 piedmont ave. rio shopping mall '->restaurant0.type=asian
+address0.addr=' 3434 peachtree rd. ne '->restaurant0.type=` american ( new ) '
+address0.addr='41 14th st. '->restaurant0.type=italian
+address0.addr=' 9560 dayton way '->restaurant0.type=american
+address0.addr=' b peachtree rd. '->restaurant0.type=french
+address0.addr=' 126 clement st. '->restaurant0.type=french
+address0.addr=' 1 mission st. '->restaurant0.type=american
+address0.addr=' 7 claude la . '->restaurant0.type=french
+address0.addr=' 340 stockton st. '->restaurant0.type=american
+;;
+;;literalNumber 1279 attriNumber 4
+;;before: dependency number 2549
+;;after: dependency number 1284
+;;time cost: 1.0401432514190674 s

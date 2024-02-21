@@ -1,0 +1,36 @@
+The catalog was generated in 0.01 secs & number of threads used was 1.
+
+i-cost & selectivity of ALDs(over the whole graph).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(a:0)-[0]->(b:1):
+-----------------
+
+* I-Cost:
+(a) Fwd[0] (0) : 0.00
+(a) Fwd[0] (1) : 0.49
+(b) Fwd[0] (1) : 0.00
+(b) Bwd[0] (0) : 0.57
+(b) Bwd[0] (1) : 0.00
+(b) Fwd[0] (0) : 0.00
+(a) Bwd[0] (0) : 0.00
+(a) Bwd[0] (1) : 0.00
+
+* Selectivity:
+(a) Bwd[0], (b) Bwd[0] (0) : 0.00
+(a) Bwd[0], (b) Bwd[0] (1) : 0.00
+(a) Fwd[0] (0) : 0.00
+(a) Fwd[0] (1) : 0.49
+(b) Fwd[0] (1) : 0.00
+(b) Bwd[0] (0) : 0.57
+(b) Bwd[0] (1) : 0.00
+(b) Fwd[0] (0) : 0.00
+(a) Bwd[0] (0) : 0.00
+(a) Fwd[0], (b) Bwd[0] (0) : 0.00
+(a) Fwd[0], (b) Bwd[0] (1) : 0.00
+(a) Bwd[0], (b) Fwd[0] (0) : 0.00
+(a) Bwd[0], (b) Fwd[0] (1) : 0.00
+(a) Bwd[0] (1) : 0.00
+(a) Fwd[0], (b) Fwd[0] (0) : 0.00
+(a) Fwd[0], (b) Fwd[0] (1) : 0.00
+
