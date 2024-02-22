@@ -1,6 +1,7 @@
 # README
 ## Discovering Graph Entity Dependencies 
-Graph entity dependencies (GEDs) are novel graph constraints, unifying keys and functional dependencies, for property graphs. In this work, we study the discovery problem of GEDs – finding a minimal cover of valid GEDs in a given graph data. We formalise the problem, and propose an effective and efficient approach to overcome major bottlenecks in GED discovery.  
+Graph entity dependencies (GEDs) are novel graph constraints, unifying keys and functional dependencies, for property graphs. In this work, we study the discovery problem of GEDs – finding a minimal cover of valid GEDs in a given graph data. We formalise the problem, and propose an effective and efficient approach to overcome major bottlenecks in GED discovery. The figure presents the overall pipeline of our solution, consisting of two main components for: (a) finding representative and reduced graph patterns (i.e.,
+“scopes”) and their (homomorphic) matches in the graph; and (b) finding minimal attribute (entity) dependencies that holds over the graph patterns.  
 <div align=center>
 <img src="GED_Discovery.jpg"> 
 </div>
