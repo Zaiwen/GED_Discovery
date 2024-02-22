@@ -10,6 +10,9 @@ Graph entity dependencies (GEDs) are novel graph constraints, unifying keys and 
 - Java 1.8
 - Python 3
 
+## Preliminaries
+Due to space limitations, missing files are saved [here](), and the source code can also be found.
+
 ## Execution Steps
 We divide the GED mining process into the following three steps: 
 1. **Frequent Subgraph Mining**:
